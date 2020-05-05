@@ -1,0 +1,1339 @@
+patient_id	hospital	age	date_of_death	stage	therapy	biomarker	encounter_date
+971734	All Saints Hospital	92	NA	Stage II	NA	NA	2019-04-07
+548241	All Saints Hospital	59	NA	Stage 0	NA	NA	2019-04-25
+745829	All Saints Hospital	74	NA	Stage II	NA	NA	2019-04-12
+800760	All Saints Hospital	42	NA	NA	NA	NA	2019-03-16
+929363	All Saints Hospital	73	NA	NA	pembrolizumab	NA	2019-03-28
+847892	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-20
+933475	All Saints Hospital	81	2018-08-14	Stage I	pembrolizumab	NA	2019-03-08
+718062	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-04-26
+979967	All Saints Hospital	76	NA	Stage IV	NA	NA	2019-04-24
+637510	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-02-14
+801281	All Saints Hospital	65	NA	Stage 0	NA	NA	2019-04-26
+1013265	All Saints Hospital	65	NA	Stage III	NA	NA	2019-04-14
+1022105	All Saints Hospital	83	NA	Stage III	gemcitabine	NA	2019-04-25
+65408	St. Mungo's	78	NA	Stage 0	NA	NA	2019-03-27
+814967	All Saints Hospital	87	NA	Stage IV	nivolumab	NA	2019-04-26
+814967	All Saints Hospital	87	NA	Stage IV	pembrolizumab	NA	2019-04-26
+814967	All Saints Hospital	87	NA	Stage IV	paclitaxel	NA	2019-04-26
+1065293	All Saints Hospital	72	NA	Stage I	NA	NA	2019-02-28
+217551	St. Mungo's	83	NA	Stage IV	NA	NA	2019-03-23
+848548	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-03-28
+988053	All Saints Hospital	76	NA	Stage 0	gemcitabine	NA	2019-03-22
+946646	All Saints Hospital	81	NA	Stage I	NA	NA	2019-04-12
+1036572	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-04-28
+1073907	All Saints Hospital	89	NA	NA	NA	NA	2019-04-13
+637515	All Saints Hospital	57	NA	Stage 0	NA	NA	2019-04-24
+893076	All Saints Hospital	38	NA	NA	NA	NA	2019-04-04
+861488	All Saints Hospital	64	NA	NA	atezolizumab	NA	2019-04-26
+904251	All Saints Hospital	61	NA	Stage II	NA	NA	2019-04-24
+861012	All Saints Hospital	60	NA	NA	NA	NA	2019-04-26
+1038128	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-04-24
+891043	All Saints Hospital	54	NA	Stage 0	NA	NA	2019-04-12
+864816	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-15
+820414	All Saints Hospital	79	NA	Stage IV	atezolizumab	NA	2019-04-26
+1014602	All Saints Hospital	57	NA	Stage I	NA	NA	2019-04-06
+929952	Chicago Hope	70	NA	NA	gemcitabine	NA	2019-04-24
+952884	All Saints Hospital	53	NA	Stage 0	NA	NA	2019-04-10
+889787	All Saints Hospital	83	NA	Stage I	NA	NA	2019-04-14
+834440	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-04-25
+1035577	All Saints Hospital	75	NA	NA	NA	NA	2019-04-26
+1059956	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-17
+744156	All Saints Hospital	93	NA	Stage I	NA	NA	2019-04-25
+932843	All Saints Hospital	72	NA	Stage II	NA	NA	2019-04-05
+951913	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-04-20
+951090	All Saints Hospital	88	NA	NA	pembrolizumab	NA	2019-04-28
+951090	All Saints Hospital	88	NA	NA	gemcitabine	NA	2019-04-28
+951090	All Saints Hospital	88	NA	NA	docetaxel	NA	2019-04-28
+951090	All Saints Hospital	88	NA	NA	atezolizumab	NA	2019-04-28
+900178	All Saints Hospital	75	NA	Stage IV	gemcitabine	NA	2019-03-14
+889258	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-21
+841965	All Saints Hospital	76	NA	NA	NA	NA	2019-04-18
+1021932	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-01-23
+657591	Lennox Hill	90	NA	Stage 0	NA	NA	2019-02-28
+862851	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-13
+963799	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-03-03
+965109	All Saints Hospital	91	NA	Stage 0	NA	NA	2019-04-10
+834544	All Saints Hospital	60	NA	Stage III	NA	NA	2019-04-05
+815802	All Saints Hospital	60	NA	Stage 0	NA	NA	2019-04-25
+889209	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-27
+932336	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-03-02
+1024027	All Saints Hospital	74	NA	Stage I	NA	NA	2019-03-28
+1054441	All Saints Hospital	72	NA	Stage IV	NA	NA	2019-03-23
+770987	St. Mungo's	75	2018-12-01	NA	gemcitabine	NA	2019-04-13
+961981	All Saints Hospital	80	NA	Stage I	NA	NA	2019-03-28
+736917	All Saints Hospital	63	NA	Stage 0	NA	NA	2019-02-01
+1028434	All Saints Hospital	77	NA	Stage IV	atezolizumab	NA	2019-04-12
+836555	All Saints Hospital	70	NA	Stage I	NA	NA	2019-04-14
+1038100	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-25
+895469	All Saints Hospital	77	NA	Stage III	NA	NA	2019-03-27
+847680	All Saints Hospital	75	NA	Stage I	NA	NA	2019-04-25
+992345	All Saints Hospital	70	NA	NA	gemcitabine	NA	2019-04-24
+992345	All Saints Hospital	70	NA	NA	pembrolizumab	NA	2019-04-24
+966957	All Saints Hospital	75	NA	NA	gemcitabine	NA	2019-04-10
+884265	All Saints Hospital	87	2018-11-02	Stage I	NA	NA	2019-04-15
+699826	All Saints Hospital	71	NA	Stage II	NA	NA	2019-03-24
+654579	All Saints Hospital	79	NA	Stage IV	NA	NA	2019-04-21
+1077732	All Saints Hospital	92	NA	Stage III	NA	NA	2019-04-25
+839320	All Saints Hospital	95	NA	Stage III	NA	NA	2019-03-10
+964531	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-18
+981775	All Saints Hospital	73	NA	NA	NA	NA	2019-04-21
+253196	St. Mungo's	72	NA	Stage 0	NA	NA	2019-03-27
+908243	All Saints Hospital	86	NA	Stage III	NA	NA	2019-03-06
+876226	All Saints Hospital	64	NA	Stage 0	NA	NA	2019-04-20
+851320	All Saints Hospital	73	NA	Stage I	NA	NA	2019-04-25
+60217	St. Mungo's	68	NA	Stage 0	NA	NA	2019-03-14
+868976	All Saints Hospital	79	NA	Stage I	NA	NA	2019-04-25
+146464	St. Mungo's	81	NA	Stage 0	NA	NA	2019-04-12
+950345	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-26
+772226	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-02-13
+827963	All Saints Hospital	93	NA	Stage I	NA	NA	2019-04-26
+614417	All Saints Hospital	80	NA	Stage I	NA	NA	2019-03-30
+1065362	All Saints Hospital	57	NA	Stage II	NA	NA	2019-04-14
+855793	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-21
+643323	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-06
+696802	All Saints Hospital	85	NA	Stage I	NA	NA	2019-04-04
+1044225	All Saints Hospital	82	2018-10-06	Stage I	NA	NA	2019-03-28
+974309	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-04-07
+725128	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-02-21
+1013599	All Saints Hospital	70	NA	NA	NA	NA	2019-04-18
+1006644	All Saints Hospital	93	NA	Stage I	NA	NA	2019-04-13
+866984	All Saints Hospital	71	NA	Stage II	gemcitabine	NA	2019-02-16
+967624	All Saints Hospital	83	NA	Stage IV	NA	NA	2019-04-25
+1051666	All Saints Hospital	86	NA	NA	NA	NA	2019-04-19
+877311	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-11
+947890	All Saints Hospital	67	NA	Stage I	NA	NA	2019-04-26
+1017179	All Saints Hospital	86	NA	Stage II	NA	NA	2019-04-21
+1052235	All Saints Hospital	83	NA	NA	NA	NA	2019-02-27
+1022113	All Saints Hospital	96	NA	Stage II	NA	NA	2019-03-16
+71701	St. Mungo's	69	NA	Stage I	NA	NA	2019-04-07
+930121	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-21
+829205	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-04-04
+923557	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-20
+40659	St. Mungo's	81	2018-09-20	Stage 0	NA	NA	2019-02-28
+880280	All Saints Hospital	80	NA	NA	NA	NA	2019-04-07
+1023603	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-25
+1070608	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-10
+551105	All Saints Hospital	69	NA	Stage I	NA	NA	2019-04-20
+79669	St. Mungo's	66	NA	Stage 0	NA	NA	2019-01-13
+204370	St. Mungo's	89	NA	Stage IV	NA	NA	2019-04-04
+858488	All Saints Hospital	73	NA	Stage III	NA	NA	2019-04-24
+711916	Lennox Hill	67	NA	Stage 0	NA	NA	2019-03-01
+1050776	St. Mungo's	64	NA	NA	NA	NA	2019-03-10
+667325	All Saints Hospital	60	NA	NA	NA	NA	2019-04-24
+926565	All Saints Hospital	55	NA	Stage 0	NA	NA	2019-03-10
+615715	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-02-13
+752508	All Saints Hospital	66	NA	Stage I	NA	NA	2019-03-31
+1059844	All Saints Hospital	88	NA	Stage IV	NA	NA	2019-04-19
+872009	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-03-28
+836622	All Saints Hospital	78	NA	Stage I	NA	NA	2019-03-14
+920196	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-13
+825023	All Saints Hospital	61	NA	Stage 0	NA	NA	2019-04-25
+838346	All Saints Hospital	66	NA	Stage I	NA	NA	2019-04-19
+1009504	All Saints Hospital	62	NA	Stage 0	NA	NA	2019-04-07
+755738	All Saints Hospital	83	NA	Stage II	NA	NA	2019-03-07
+827620	All Saints Hospital	71	NA	Stage I	NA	NA	2019-04-07
+957318	All Saints Hospital	71	NA	NA	paclitaxel	NA	2019-04-27
+764776	All Saints Hospital	61	NA	Stage 0	NA	NA	2019-04-06
+908597	All Saints Hospital	92	NA	NA	NA	NA	2019-04-18
+935607	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-15
+1007330	All Saints Hospital	57	NA	Stage I	NA	NA	2019-03-06
+736576	All Saints Hospital	82	NA	Stage III	pembrolizumab	NA	2019-01-10
+1061621	All Saints Hospital	54	NA	Stage 0	NA	NA	2019-01-17
+1049008	All Saints Hospital	76	NA	Stage II	NA	NA	2019-03-07
+444198	Lennox Hill	68	NA	Stage I	NA	NA	2019-04-10
+834567	All Saints Hospital	72	NA	NA	NA	NA	2019-04-04
+843986	Lennox Hill	83	NA	Stage I	NA	NA	2019-02-05
+1054703	All Saints Hospital	70	NA	NA	NA	NA	2019-04-26
+956781	All Saints Hospital	91	NA	Stage 0	NA	NA	2019-03-20
+934955	All Saints Hospital	97	NA	Stage I	NA	NA	2019-03-13
+22497	St. Mungo's	42	NA	Stage 0	NA	NA	2019-02-15
+868129	All Saints Hospital	87	2019-02-02	Stage II	gemcitabine	NA	2019-04-26
+868129	All Saints Hospital	87	2019-02-02	Stage II	atezolizumab	NA	2019-04-26
+877329	All Saints Hospital	55	NA	Stage I	NA	NA	2019-03-14
+950753	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-02-08
+1041332	All Saints Hospital	79	NA	Stage I	gemcitabine	NA	2019-03-03
+958833	All Saints Hospital	90	2018-08-13	Stage IV	NA	NA	2019-02-03
+945629	All Saints Hospital	84	NA	Stage 0	pembrolizumab	NA	2019-04-26
+612323	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-03-27
+732239	Lennox Hill	86	NA	NA	NA	NA	2019-03-20
+651209	All Saints Hospital	76	NA	NA	NA	NA	2019-04-24
+690298	All Saints Hospital	77	NA	NA	atezolizumab	NA	2019-04-25
+852211	All Saints Hospital	75	NA	NA	gemcitabine	NA	2019-04-26
+881150	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-26
+882327	All Saints Hospital	53	NA	Stage III	NA	NA	2019-04-28
+1077007	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-25
+590287	Lennox Hill	74	NA	Stage 0	NA	NA	2019-04-24
+823814	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-18
+800279	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-03-27
+1008608	All Saints Hospital	67	NA	Stage III	pembrolizumab	NA	2019-04-25
+1026316	All Saints Hospital	63	NA	Stage 0	gemcitabine	NA	2019-04-19
+1052747	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-05
+1042216	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-10
+910696	All Saints Hospital	76	NA	Stage II	gemcitabine	NA	2019-03-03
+866334	All Saints Hospital	81	NA	Stage I	NA	NA	2019-04-28
+1062343	All Saints Hospital	91	NA	Stage III	NA	NA	2019-04-25
+731199	Lennox Hill	51	NA	Stage I	NA	NA	2019-03-17
+773498	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-02-01
+1063359	All Saints Hospital	22	NA	Stage 0	nivolumab	NA	2019-04-24
+313137	Lennox Hill	71	NA	Stage 0	NA	NA	2019-04-25
+898685	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-24
+999065	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-10
+1046290	All Saints Hospital	75	NA	Stage I	pembrolizumab	NA	2019-04-26
+907697	All Saints Hospital	63	NA	Stage II	NA	NA	2019-04-15
+1015352	All Saints Hospital	91	NA	NA	NA	NA	2019-04-25
+1033518	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-03-27
+690563	All Saints Hospital	61	NA	Stage II	NA	NA	2019-04-26
+788196	All Saints Hospital	51	NA	Stage 0	NA	NA	2019-04-19
+1082358	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-19
+1003007	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-01-26
+1057765	All Saints Hospital	87	NA	NA	NA	NA	2019-04-28
+839827	All Saints Hospital	80	NA	Stage I	NA	NA	2019-03-26
+925029	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-25
+966498	All Saints Hospital	57	NA	Stage 0	NA	NA	2019-04-25
+1063447	All Saints Hospital	95	NA	Stage 0	NA	NA	2019-04-19
+729176	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-03-09
+1035553	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-11
+867027	All Saints Hospital	82	NA	Stage I	NA	NA	2019-04-13
+876484	All Saints Hospital	63	NA	Stage 0	NA	NA	2019-04-17
+608029	Lennox Hill	68	NA	Stage 0	NA	NA	2019-04-13
+17949	St. Mungo's	73	NA	Stage I	NA	NA	2019-04-11
+915154	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-14
+894423	All Saints Hospital	80	NA	NA	gemcitabine	NA	2019-04-25
+420522	St. Mungo's	75	NA	Stage 0	NA	NA	2019-04-18
+806120	All Saints Hospital	53	NA	Stage 0	NA	NA	2019-02-21
+748548	All Saints Hospital	72	NA	NA	NA	NA	2019-04-28
+1013774	All Saints Hospital	40	NA	Stage 0	NA	NA	2019-04-21
+717535	Lennox Hill	84	NA	Stage 0	NA	NA	2019-01-31
+123249	St. Mungo's	84	NA	Stage 0	NA	NA	2019-03-30
+1020544	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-21
+922269	All Saints Hospital	87	NA	Stage I	NA	NA	2019-04-17
+526171	All Saints Hospital	82	NA	Stage III	NA	NA	2019-04-10
+25912	St. Mungo's	70	NA	Stage 0	NA	NA	2019-03-15
+744096	All Saints Hospital	84	NA	Stage 0	paclitaxel	NA	2019-03-08
+58699	St. Mungo's	79	NA	Stage II	NA	NA	2019-04-11
+812468	All Saints Hospital	90	NA	Stage I	NA	NA	2019-04-24
+882494	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-03-15
+848909	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-18
+727267	All Saints Hospital	78	2018-08-22	NA	gemcitabine	NA	2019-02-03
+973112	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-12
+604924	Lennox Hill	80	NA	NA	NA	NA	2019-04-24
+1026162	All Saints Hospital	68	NA	NA	gemcitabine	NA	2019-04-25
+731414	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-02-23
+818153	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-25
+951415	All Saints Hospital	66	NA	Stage 0	NA	NA	2019-01-11
+932449	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-20
+1062016	All Saints Hospital	71	NA	Stage IV	gemcitabine	NA	2019-04-21
+886230	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-01-25
+615979	All Saints Hospital	68	NA	NA	NA	NA	2019-02-23
+1073949	All Saints Hospital	85	NA	Stage I	NA	NA	2019-04-21
+905700	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-26
+817944	All Saints Hospital	80	NA	Stage III	NA	NA	2019-03-15
+956261	All Saints Hospital	77	NA	Stage IV	NA	NA	2019-03-19
+859159	All Saints Hospital	65	NA	Stage II	NA	NA	2019-04-18
+1031909	All Saints Hospital	81	NA	Stage III	NA	NA	2019-04-24
+850208	All Saints Hospital	69	NA	Stage I	NA	NA	2019-04-24
+884606	All Saints Hospital	90	NA	Stage I	NA	NA	2019-04-13
+653762	Lennox Hill	86	NA	Stage III	NA	NA	2019-01-30
+983133	All Saints Hospital	98	NA	Stage II	NA	NA	2019-04-19
+1016040	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-27
+1003233	All Saints Hospital	82	NA	Stage IV	gemcitabine	NA	2019-04-21
+1003233	All Saints Hospital	82	NA	Stage IV	pembrolizumab	NA	2019-04-21
+821525	All Saints Hospital	60	NA	Stage III	NA	NA	2019-04-11
+952907	All Saints Hospital	60	NA	Stage III	NA	NA	2019-04-14
+768586	All Saints Hospital	56	NA	Stage 0	NA	NA	2019-04-18
+594573	Lennox Hill	84	NA	Stage 0	NA	NA	2019-04-19
+51029	St. Mungo's	62	NA	Stage II	gemcitabine	NA	2019-02-16
+956191	All Saints Hospital	56	NA	NA	NA	NA	2019-04-11
+837739	All Saints Hospital	46	NA	Stage II	NA	NA	2019-03-16
+883152	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-03-23
+945798	All Saints Hospital	93	NA	Stage 0	NA	NA	2019-04-11
+193140	St. Mungo's	78	NA	Stage 0	NA	NA	2019-03-30
+828296	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-06
+857990	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-04-05
+750397	All Saints Hospital	60	NA	Stage 0	NA	NA	2019-04-28
+904109	All Saints Hospital	50	NA	NA	NA	NA	2019-03-02
+822573	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-24
+910630	St. Mungo's	75	NA	NA	gemcitabine	FGFR3 S249C	2019-04-20
+910630	St. Mungo's	75	NA	NA	atezolizumab	FGFR3 S249C	2019-04-20
+678809	All Saints Hospital	82	NA	Stage I	NA	NA	2019-03-08
+570991	Lennox Hill	66	NA	Stage I	NA	NA	2019-04-25
+995318	All Saints Hospital	86	NA	Stage IV	NA	NA	2019-04-18
+1080623	All Saints Hospital	86	NA	Stage II	paclitaxel	NA	2019-03-01
+89881	St. Mungo's	62	NA	Stage 0	NA	NA	2019-04-28
+837355	All Saints Hospital	84	NA	NA	nivolumab	NA	2019-04-17
+740034	All Saints Hospital	88	NA	Stage I	NA	NA	2019-04-04
+812854	All Saints Hospital	79	NA	Stage I	NA	NA	2019-04-24
+850533	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-04-06
+843470	Lennox Hill	79	NA	Stage 0	NA	NA	2019-04-26
+1051609	All Saints Hospital	75	NA	Stage II	NA	NA	2019-04-11
+1071744	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-03-09
+78955	St. Mungo's	76	NA	Stage I	NA	NA	2019-04-13
+984833	All Saints Hospital	81	NA	NA	NA	NA	2019-04-15
+867820	All Saints Hospital	77	NA	Stage IV	NA	NA	2019-03-24
+903068	All Saints Hospital	61	NA	NA	NA	NA	2019-02-27
+887427	Lennox Hill	94	NA	Stage I	NA	NA	2019-02-21
+757349	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-04
+1027727	All Saints Hospital	92	NA	Stage I	NA	NA	2019-04-22
+945443	All Saints Hospital	83	NA	NA	NA	NA	2019-02-16
+712193	Lennox Hill	69	NA	Stage 0	NA	NA	2019-04-18
+1056241	All Saints Hospital	97	NA	Stage 0	NA	NA	2019-04-21
+344193	Chicago Hope	73	NA	NA	pembrolizumab	NA	2019-01-10
+672406	All Saints Hospital	86	NA	Stage II	NA	NA	2019-03-08
+797096	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-04-26
+698760	Lennox Hill	82	NA	Stage I	NA	NA	2019-04-13
+252162	St. Mungo's	90	NA	Stage II	NA	NA	2019-04-05
+898571	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-10
+974510	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-03-27
+844750	All Saints Hospital	82	NA	Stage I	NA	NA	2019-04-25
+807532	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-03-21
+186022	St. Mungo's	74	NA	Stage I	NA	NA	2019-04-11
+852238	All Saints Hospital	84	NA	Stage IV	NA	NA	2019-04-24
+985763	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-25
+685810	All Saints Hospital	42	NA	Stage 0	NA	NA	2019-04-24
+1005970	All Saints Hospital	69	NA	Stage I	NA	NA	2019-04-24
+984119	All Saints Hospital	75	NA	Stage II	gemcitabine	NA	2019-04-15
+761401	All Saints Hospital	47	NA	Stage II	NA	NA	2019-02-23
+601123	All Saints Hospital	79	NA	Stage IV	NA	NA	2019-01-11
+920499	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-02-07
+367478	St. Mungo's	69	NA	Stage II	NA	NA	2019-01-31
+94398	St. Mungo's	77	NA	Stage II	gemcitabine	NA	2019-02-10
+47866	St. Mungo's	56	NA	NA	NA	NA	2019-01-06
+852924	All Saints Hospital	87	NA	NA	NA	NA	2019-04-04
+951796	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-01-21
+787781	All Saints Hospital	86	NA	Stage I	NA	NA	2019-03-26
+1030335	All Saints Hospital	68	NA	Stage I	NA	NA	2019-03-28
+854799	All Saints Hospital	97	NA	Stage 0	NA	NA	2019-03-18
+1071126	All Saints Hospital	78	NA	Stage III	NA	NA	2019-04-20
+849603	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-02
+123637	St. Mungo's	63	NA	Stage 0	NA	NA	2019-01-30
+1069399	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-03-09
+712001	Lennox Hill	90	NA	NA	NA	NA	2019-02-04
+691637	Lennox Hill	60	NA	Stage I	NA	NA	2019-03-30
+626191	Lennox Hill	75	NA	Stage IV	NA	NA	2019-02-03
+554290	Lennox Hill	82	NA	Stage 0	NA	NA	2019-04-03
+109048	St. Mungo's	66	NA	Stage II	NA	NA	2019-04-28
+765198	All Saints Hospital	79	NA	NA	NA	NA	2019-04-25
+869053	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-04-18
+1066975	All Saints Hospital	76	2017-11-28	Stage 0	NA	NA	2019-03-07
+580459	Chicago Hope	59	NA	NA	pembrolizumab	NA	2019-01-20
+818884	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-19
+114721	St. Mungo's	59	NA	Stage 0	NA	NA	2019-03-09
+979144	All Saints Hospital	51	NA	Stage I	NA	NA	2019-01-12
+804047	All Saints Hospital	74	NA	Stage I	NA	NA	2019-04-23
+957839	All Saints Hospital	62	NA	Stage 0	NA	NA	2019-04-10
+901237	All Saints Hospital	65	NA	Stage 0	NA	NA	2019-02-23
+906659	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-02-10
+820869	All Saints Hospital	81	NA	Stage I	NA	NA	2019-03-10
+645769	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-02-15
+1039952	All Saints Hospital	53	NA	Stage 0	NA	NA	2019-03-22
+760958	All Saints Hospital	68	NA	Stage III	paclitaxel	NA	2019-01-31
+1071136	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-03-27
+1026943	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-25
+841141	All Saints Hospital	80	2018-09-08	Stage 0	nivolumab	NA	2019-03-28
+841141	All Saints Hospital	80	2018-09-08	Stage 0	paclitaxel	NA	2019-03-28
+841141	All Saints Hospital	80	2018-09-08	Stage 0	pembrolizumab	NA	2019-03-28
+1024243	All Saints Hospital	75	NA	Stage I	NA	NA	2019-04-24
+732330	All Saints Hospital	80	NA	Stage II	NA	NA	2019-04-26
+797232	All Saints Hospital	80	NA	Stage II	NA	NA	2019-04-25
+762888	Lennox Hill	70	NA	Stage I	NA	NA	2019-04-21
+128337	St. Mungo's	73	NA	Stage 0	NA	NA	2019-03-31
+989593	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-26
+1046106	All Saints Hospital	68	NA	Stage I	NA	NA	2019-04-20
+860558	All Saints Hospital	76	NA	Stage 0	pembrolizumab	NA	2019-03-06
+860558	All Saints Hospital	76	NA	Stage 0	docetaxel	NA	2019-03-06
+990749	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-25
+846718	All Saints Hospital	85	NA	NA	NA	NA	2019-04-26
+900011	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-14
+715572	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-25
+824618	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-12
+941309	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-26
+823886	All Saints Hospital	87	2018-09-30	Stage 0	NA	NA	2019-03-20
+817878	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-26
+946463	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-26
+790775	All Saints Hospital	73	NA	Stage II	gemcitabine	NA	2019-04-26
+957211	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-03-20
+838872	All Saints Hospital	54	NA	Stage III	atezolizumab	NA	2019-04-25
+829942	All Saints Hospital	84	NA	Stage I	NA	NA	2019-04-19
+903234	All Saints Hospital	65	NA	NA	gemcitabine	NA	2019-04-28
+773778	All Saints Hospital	82	2018-10-18	NA	NA	NA	2019-04-06
+801556	All Saints Hospital	59	NA	Stage I	gemcitabine	NA	2019-04-18
+801556	All Saints Hospital	59	NA	Stage I	atezolizumab	NA	2019-04-18
+935779	All Saints Hospital	80	NA	Stage III	pembrolizumab	NA	2019-04-25
+1024675	All Saints Hospital	84	NA	NA	NA	NA	2019-03-20
+880682	All Saints Hospital	61	NA	Stage III	NA	NA	2019-04-24
+1069973	All Saints Hospital	70	NA	Stage II	gemcitabine	NA	2019-04-25
+973965	All Saints Hospital	85	NA	NA	pembrolizumab	NA	2019-04-23
+926884	All Saints Hospital	73	NA	Stage IV	NA	NA	2019-04-08
+892815	All Saints Hospital	75	NA	NA	NA	NA	2019-04-21
+964316	All Saints Hospital	93	NA	Stage 0	NA	NA	2019-04-14
+563677	Lennox Hill	63	NA	Stage III	NA	NA	2019-04-21
+749463	All Saints Hospital	66	NA	Stage 0	NA	NA	2019-04-25
+898899	All Saints Hospital	88	NA	NA	NA	NA	2019-04-20
+915202	All Saints Hospital	64	NA	Stage I	NA	NA	2019-04-12
+1071556	All Saints Hospital	80	NA	NA	pembrolizumab	NA	2019-04-18
+764005	All Saints Hospital	83	NA	NA	NA	NA	2019-04-26
+697157	Lennox Hill	66	NA	Stage III	NA	NA	2019-01-19
+857384	All Saints Hospital	95	NA	Stage II	NA	NA	2019-04-26
+873786	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-01-31
+886193	All Saints Hospital	66	2018-10-07	Stage IV	NA	NA	2019-03-02
+964501	All Saints Hospital	71	NA	NA	NA	NA	2019-04-24
+311746	Chicago Hope	101	NA	NA	NA	NA	2019-02-16
+1017814	All Saints Hospital	60	NA	Stage I	NA	NA	2019-04-28
+788818	All Saints Hospital	86	NA	Stage II	NA	NA	2019-04-25
+765271	Lennox Hill	89	NA	NA	NA	NA	2019-02-17
+802814	All Saints Hospital	66	NA	Stage IV	NA	NA	2019-03-27
+872556	All Saints Hospital	70	NA	NA	nivolumab	NA	2019-04-24
+1069712	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-03-28
+850229	All Saints Hospital	94	NA	Stage 0	NA	NA	2019-04-20
+1074295	All Saints Hospital	78	NA	Stage I	NA	NA	2019-03-18
+809388	All Saints Hospital	95	NA	Stage I	NA	NA	2019-03-06
+717600	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-11
+197213	St. Mungo's	83	NA	Stage 0	NA	NA	2019-04-24
+886116	All Saints Hospital	78	NA	NA	NA	NA	2019-04-21
+661501	All Saints Hospital	54	NA	Stage 0	NA	NA	2019-04-26
+779236	All Saints Hospital	70	NA	Stage I	NA	NA	2019-04-10
+36854	St. Mungo's	65	NA	Stage 0	NA	NA	2019-04-04
+1074491	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-20
+951758	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-04-26
+878746	All Saints Hospital	96	NA	Stage IV	NA	NA	2019-04-12
+867935	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-13
+889514	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-04-21
+869095	All Saints Hospital	94	NA	Stage IV	NA	NA	2019-04-20
+780717	All Saints Hospital	89	NA	Stage I	NA	NA	2019-04-24
+867872	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-03-23
+635994	Lennox Hill	88	NA	Stage II	NA	NA	2019-03-09
+702424	Lennox Hill	79	NA	Stage 0	NA	NA	2019-04-13
+877818	All Saints Hospital	89	NA	NA	NA	NA	2019-03-07
+742224	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-03-14
+902865	All Saints Hospital	60	NA	Stage I	NA	NA	2019-03-07
+890082	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-26
+1078856	All Saints Hospital	61	NA	NA	NA	NA	2019-04-24
+767037	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-24
+800203	All Saints Hospital	97	NA	Stage 0	NA	NA	2019-04-14
+927207	All Saints Hospital	95	NA	Stage 0	NA	NA	2019-04-26
+725620	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-03-10
+1062901	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-03-13
+785064	All Saints Hospital	78	NA	NA	NA	NA	2019-04-26
+924377	All Saints Hospital	60	NA	Stage I	NA	NA	2019-04-13
+919128	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-10
+745879	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-18
+786880	All Saints Hospital	82	NA	NA	NA	NA	2019-04-11
+891815	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-04-25
+692185	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-19
+270870	Chicago Hope	90	NA	NA	NA	NA	2019-03-30
+889178	All Saints Hospital	85	NA	Stage I	NA	NA	2019-04-19
+1000987	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-01-19
+683191	Lennox Hill	70	NA	NA	NA	NA	2019-04-19
+925131	All Saints Hospital	43	NA	Stage IV	pembrolizumab	NA	2019-04-24
+767437	All Saints Hospital	70	NA	Stage I	NA	NA	2019-03-15
+880021	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-03-20
+57801	St. Mungo's	77	NA	Stage I	NA	NA	2019-04-10
+1059877	All Saints Hospital	70	NA	NA	NA	NA	2019-04-26
+837182	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-04-20
+130567	St. Mungo's	69	NA	Stage III	gemcitabine	NA	2019-04-12
+628491	All Saints Hospital	67	NA	Stage IV	NA	NA	2019-04-19
+1012412	All Saints Hospital	70	NA	Stage II	NA	NA	2019-01-20
+642766	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-03-22
+656833	All Saints Hospital	70	NA	Stage I	NA	NA	2019-04-22
+1072775	All Saints Hospital	60	NA	Stage 0	NA	NA	2019-04-19
+939158	All Saints Hospital	66	NA	Stage 0	NA	NA	2019-02-07
+1031357	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-02-16
+726712	All Saints Hospital	76	NA	Stage III	gemcitabine	NA	2019-04-26
+894902	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-03-24
+1022375	All Saints Hospital	88	NA	Stage I	NA	NA	2019-04-24
+140883	St. Mungo's	70	NA	Stage 0	NA	NA	2019-03-22
+1031606	All Saints Hospital	73	2018-06-05	NA	NA	NA	2019-04-20
+1043036	All Saints Hospital	87	NA	NA	NA	NA	2019-04-13
+995842	All Saints Hospital	63	NA	NA	NA	NA	2019-02-24
+1035075	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-25
+902502	All Saints Hospital	41	NA	Stage 0	NA	NA	2019-04-19
+1058868	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-04-25
+900996	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-19
+1020476	All Saints Hospital	85	NA	Stage III	NA	NA	2019-04-24
+855780	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-21
+1035407	All Saints Hospital	81	NA	Stage II	NA	NA	2019-03-17
+936346	All Saints Hospital	71	NA	Stage I	NA	FGFR3 P71S	2019-04-17
+812324	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-02-20
+868901	All Saints Hospital	69	NA	Stage I	NA	NA	2019-03-17
+754917	Lennox Hill	69	NA	Stage I	NA	NA	2019-02-08
+43104	St. Mungo's	71	NA	Stage 0	docetaxel	NA	2019-03-29
+43104	St. Mungo's	71	NA	Stage 0	gemcitabine	NA	2019-03-29
+1032699	All Saints Hospital	86	NA	Stage II	NA	NA	2019-04-13
+1076986	All Saints Hospital	64	NA	NA	NA	NA	2019-02-22
+798648	All Saints Hospital	84	NA	Stage I	NA	NA	2019-04-10
+789492	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-03-20
+814214	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-01-05
+1072388	All Saints Hospital	76	NA	Stage I	NA	NA	2019-01-17
+841883	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-03-30
+20652	St. Mungo's	71	NA	Stage I	NA	NA	2019-03-21
+888832	All Saints Hospital	85	NA	Stage II	NA	NA	2019-04-21
+661571	All Saints Hospital	90	NA	Stage I	NA	NA	2019-03-02
+939138	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-03-07
+778232	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-03-22
+821120	All Saints Hospital	72	NA	NA	NA	NA	2019-04-17
+925419	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-02-07
+914396	All Saints Hospital	83	2018-07-14	Stage I	gemcitabine	NA	2019-01-06
+928847	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-01-24
+844653	All Saints Hospital	83	NA	NA	NA	NA	2019-03-07
+981752	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-21
+853031	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-03-27
+925554	All Saints Hospital	91	NA	Stage IV	NA	NA	2019-04-06
+897466	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-02-20
+829294	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-02-10
+963318	All Saints Hospital	57	NA	NA	NA	NA	2019-03-24
+850644	All Saints Hospital	91	NA	Stage I	NA	NA	2019-04-20
+922541	All Saints Hospital	74	NA	Stage III	gemcitabine	NA	2019-01-17
+794368	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-02-16
+805166	All Saints Hospital	53	NA	Stage 0	NA	NA	2019-04-19
+1023643	All Saints Hospital	80	NA	Stage II	NA	NA	2019-03-29
+950184	All Saints Hospital	72	NA	Stage I	NA	NA	2019-02-24
+871503	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-24
+686068	All Saints Hospital	85	NA	Stage II	NA	NA	2019-02-13
+860927	All Saints Hospital	82	NA	Stage I	NA	NA	2019-02-16
+704377	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-03-15
+843464	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-02-08
+876761	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-25
+45908	St. Mungo's	89	NA	Stage I	NA	NA	2019-04-14
+862735	All Saints Hospital	93	NA	NA	NA	NA	2019-03-22
+878331	All Saints Hospital	100	NA	Stage 0	NA	NA	2019-04-24
+1059832	All Saints Hospital	87	NA	NA	NA	NA	2019-04-04
+1009254	All Saints Hospital	90	2018-07-05	Stage 0	NA	NA	2019-01-09
+1046171	All Saints Hospital	86	2017-06-19	Stage 0	NA	NA	2019-03-24
+770125	All Saints Hospital	83	NA	Stage I	NA	NA	2019-04-28
+849440	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-28
+683866	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-26
+903510	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-21
+840833	All Saints Hospital	47	NA	Stage IV	nivolumab	NA	2019-04-25
+1047088	All Saints Hospital	69	NA	Stage II	NA	NA	2019-04-28
+811432	All Saints Hospital	65	NA	Stage I	NA	NA	2019-04-20
+811432	All Saints Hospital	65	NA	Stage I	pembrolizumab	NA	2019-04-20
+732081	All Saints Hospital	72	NA	Stage II	NA	NA	2019-04-25
+997032	All Saints Hospital	56	NA	Stage 0	NA	NA	2019-03-15
+776128	All Saints Hospital	69	NA	Stage I	NA	NA	2019-04-28
+833802	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-04-21
+1043790	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-04-24
+955040	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-28
+1042441	All Saints Hospital	88	NA	Stage I	NA	NA	2019-03-31
+914317	All Saints Hospital	81	NA	NA	NA	NA	2019-04-24
+1072752	All Saints Hospital	81	NA	NA	NA	NA	2019-03-27
+843055	All Saints Hospital	77	NA	NA	NA	NA	2019-04-24
+775218	All Saints Hospital	87	NA	Stage I	NA	NA	2019-04-28
+999421	All Saints Hospital	79	NA	NA	NA	NA	2019-04-12
+1037331	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-01-17
+1066644	All Saints Hospital	81	NA	Stage II	NA	NA	2019-04-14
+911143	All Saints Hospital	86	NA	Stage I	NA	NA	2019-04-18
+751218	All Saints Hospital	70	NA	Stage II	gemcitabine	NA	2019-04-24
+758842	Lennox Hill	85	NA	Stage II	NA	NA	2019-04-26
+919026	All Saints Hospital	76	NA	Stage II	NA	NA	2019-04-25
+923658	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-26
+1069925	All Saints Hospital	69	NA	Stage I	gemcitabine	NA	2019-04-24
+1069925	All Saints Hospital	69	NA	Stage I	atezolizumab	NA	2019-04-24
+1022864	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-03-20
+643901	All Saints Hospital	79	NA	Stage I	NA	NA	2019-04-28
+853153	All Saints Hospital	81	2018-11-08	NA	gemcitabine	NA	2019-04-26
+1016767	All Saints Hospital	62	NA	Stage 0	NA	NA	2019-01-28
+893453	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-18
+997922	All Saints Hospital	97	2019-04-02	Stage 0	NA	NA	2019-04-27
+784697	All Saints Hospital	82	NA	Stage IV	NA	NA	2019-03-31
+871814	St. Mungo's	80	2019-01-07	NA	NA	NA	2019-04-24
+831444	All Saints Hospital	64	2018-07-31	Stage 0	NA	NA	2019-01-19
+978190	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-01-12
+833015	All Saints Hospital	53	NA	Stage I	gemcitabine	NA	2019-03-02
+845554	All Saints Hospital	84	NA	Stage I	NA	NA	2019-04-28
+180895	St. Mungo's	88	NA	Stage I	NA	NA	2019-04-26
+986003	All Saints Hospital	58	NA	Stage IV	gemcitabine	FGFR3 S249C	2019-04-25
+986003	All Saints Hospital	58	NA	Stage IV	avelumab	FGFR3 S249C	2019-04-25
+772879	All Saints Hospital	93	NA	NA	NA	NA	2019-02-21
+900714	All Saints Hospital	82	NA	Stage IV	NA	NA	2019-04-12
+944569	All Saints Hospital	81	NA	NA	NA	NA	2019-04-10
+955986	All Saints Hospital	65	2018-08-12	Stage IV	gemcitabine	NA	2019-02-08
+955986	All Saints Hospital	65	2018-08-12	Stage IV	atezolizumab	NA	2019-02-08
+955986	All Saints Hospital	65	2018-08-12	Stage IV	paclitaxel	NA	2019-02-08
+881313	All Saints Hospital	61	NA	NA	gemcitabine	NA	2019-04-11
+897232	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-10
+837347	All Saints Hospital	95	NA	Stage II	NA	NA	2019-04-17
+74411	St. Mungo's	69	NA	NA	NA	NA	2019-04-11
+690078	Lennox Hill	83	NA	NA	NA	NA	2019-04-18
+645625	All Saints Hospital	89	NA	Stage I	NA	NA	2019-04-19
+813752	All Saints Hospital	68	NA	Stage I	docetaxel	NA	2019-04-05
+189081	St. Mungo's	76	NA	Stage 0	paclitaxel	NA	2019-03-23
+901274	All Saints Hospital	86	NA	Stage I	NA	NA	2019-04-05
+769622	All Saints Hospital	75	NA	Stage IV	NA	NA	2019-02-03
+524891	All Saints Hospital	73	NA	NA	NA	NA	2019-04-18
+863835	All Saints Hospital	78	NA	Stage I	NA	NA	2019-03-08
+791967	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-28
+472233	St. Mungo's	60	NA	NA	gemcitabine	NA	2019-04-11
+472233	St. Mungo's	60	NA	NA	pembrolizumab	NA	2019-04-11
+953543	All Saints Hospital	75	NA	NA	NA	NA	2019-04-26
+861102	All Saints Hospital	66	NA	NA	NA	NA	2019-04-24
+836015	All Saints Hospital	80	NA	Stage I	NA	NA	2019-03-23
+746356	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-03-13
+925883	All Saints Hospital	70	NA	Stage I	NA	NA	2019-02-15
+900546	All Saints Hospital	65	NA	Stage IV	gemcitabine	NA	2019-04-05
+1020403	All Saints Hospital	70	NA	Stage III	pembrolizumab	NA	2019-04-21
+729130	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-14
+983262	All Saints Hospital	87	NA	NA	NA	NA	2019-04-11
+1009262	All Saints Hospital	73	NA	Stage I	pembrolizumab	NA	2019-04-17
+1021667	All Saints Hospital	73	NA	Stage I	NA	NA	2019-04-25
+825816	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-26
+1071685	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-12
+1050961	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-14
+775649	Lennox Hill	77	NA	Stage 0	NA	NA	2019-03-09
+831304	All Saints Hospital	70	NA	Stage I	NA	NA	2019-04-28
+809203	All Saints Hospital	76	NA	Stage II	atezolizumab	NA	2019-02-15
+809203	All Saints Hospital	76	NA	Stage II	gemcitabine	NA	2019-02-15
+862801	All Saints Hospital	70	NA	Stage I	NA	NA	2019-04-21
+610888	Lennox Hill	76	NA	Stage I	NA	NA	2019-02-27
+954294	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-02-07
+791205	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-18
+1059262	All Saints Hospital	54	NA	Stage 0	NA	NA	2019-03-14
+679549	All Saints Hospital	86	NA	Stage II	NA	NA	2019-04-24
+1073865	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-01-23
+911320	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-01-05
+623055	Lennox Hill	61	NA	Stage 0	NA	NA	2019-02-13
+1029157	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-04-21
+614355	All Saints Hospital	86	NA	Stage I	NA	NA	2019-02-25
+975061	All Saints Hospital	40	NA	Stage I	NA	NA	2019-02-14
+976151	All Saints Hospital	91	NA	Stage I	NA	NA	2019-04-25
+878672	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-04-19
+816571	Lennox Hill	69	NA	Stage 0	NA	NA	2019-02-07
+1000539	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-02-28
+1018109	All Saints Hospital	70	NA	Stage II	NA	NA	2019-04-10
+956469	All Saints Hospital	64	NA	NA	NA	NA	2019-03-06
+770560	All Saints Hospital	84	NA	Stage III	NA	NA	2019-04-20
+951812	All Saints Hospital	93	2018-07-30	Stage I	NA	NA	2019-01-25
+1048921	All Saints Hospital	56	NA	Stage I	NA	NA	2019-04-19
+936618	All Saints Hospital	75	NA	Stage II	NA	NA	2019-04-25
+713944	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-02-16
+1012571	All Saints Hospital	88	NA	Stage 0	NA	NA	2019-04-20
+896096	All Saints Hospital	77	NA	Stage II	NA	NA	2019-04-17
+762775	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-03-20
+798513	All Saints Hospital	79	NA	Stage IV	NA	NA	2019-04-26
+929459	All Saints Hospital	60	NA	Stage IV	NA	NA	2019-04-12
+1023968	All Saints Hospital	90	NA	Stage II	NA	NA	2019-04-14
+674652	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-17
+583460	Lennox Hill	61	NA	Stage 0	NA	NA	2019-03-02
+979975	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-07
+662003	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-06
+1071385	All Saints Hospital	50	NA	Stage 0	NA	NA	2019-03-28
+1044756	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-26
+880253	All Saints Hospital	70	NA	Stage II	pembrolizumab	NA	2019-04-11
+873832	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-02-26
+866600	All Saints Hospital	93	NA	Stage I	NA	NA	2019-03-09
+93738	St. Mungo's	91	NA	Stage I	NA	NA	2019-03-07
+426250	St. Mungo's	78	NA	Stage II	gemcitabine	NA	2019-01-19
+426250	St. Mungo's	78	NA	Stage II	atezolizumab	NA	2019-01-19
+666891	Lennox Hill	87	NA	Stage I	NA	NA	2019-02-27
+358132	Chicago Hope	66	NA	NA	NA	NA	2019-04-19
+839225	All Saints Hospital	75	NA	Stage I	gemcitabine	NA	2019-04-21
+392241	Lennox Hill	65	NA	Stage II	NA	NA	2019-02-23
+906389	All Saints Hospital	81	NA	Stage I	NA	NA	2019-02-24
+1021961	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-20
+849859	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-21
+364090	Chicago Hope	62	NA	NA	NA	NA	2019-04-25
+326144	St. Mungo's	51	NA	Stage 0	NA	NA	2019-04-01
+1039741	All Saints Hospital	55	NA	Stage IV	NA	NA	2019-01-31
+1073286	All Saints Hospital	76	NA	Stage I	NA	NA	2019-03-28
+896450	All Saints Hospital	93	2019-01-02	Stage 0	NA	NA	2019-04-14
+1070462	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-25
+864619	All Saints Hospital	91	NA	Stage 0	NA	NA	2019-04-04
+622815	Lennox Hill	78	NA	NA	NA	NA	2019-04-28
+880123	All Saints Hospital	83	NA	NA	NA	NA	2019-03-27
+911718	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-02-02
+867219	All Saints Hospital	73	NA	NA	NA	NA	2019-03-29
+809856	All Saints Hospital	83	NA	Stage 0	paclitaxel	NA	2019-01-19
+809856	All Saints Hospital	83	NA	Stage 0	gemcitabine	NA	2019-01-19
+910049	All Saints Hospital	79	NA	Stage I	NA	NA	2019-03-29
+995771	All Saints Hospital	73	NA	Stage II	NA	NA	2019-04-19
+1028329	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-19
+553813	Lennox Hill	59	NA	Stage III	NA	NA	2019-03-21
+876268	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-03-24
+906954	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-12
+910305	All Saints Hospital	69	NA	Stage IV	NA	NA	2019-03-13
+1074417	All Saints Hospital	75	NA	Stage I	NA	NA	2019-03-21
+625678	Lennox Hill	67	NA	Stage II	NA	NA	2019-01-23
+1043891	All Saints Hospital	82	NA	Stage III	NA	NA	2019-03-07
+950742	All Saints Hospital	75	NA	NA	NA	NA	2019-03-30
+419953	St. Mungo's	93	NA	Stage 0	NA	NA	2019-03-30
+657277	All Saints Hospital	67	NA	NA	NA	NA	2019-03-14
+962005	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-13
+688212	All Saints Hospital	95	NA	Stage III	pembrolizumab	NA	2019-03-08
+666613	All Saints Hospital	82	NA	Stage II	NA	NA	2019-04-21
+1042892	All Saints Hospital	54	NA	Stage 0	NA	NA	2019-04-12
+661843	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-20
+885785	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-02-07
+1056897	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-01-11
+856974	All Saints Hospital	83	NA	NA	NA	NA	2019-01-05
+772772	All Saints Hospital	95	NA	NA	NA	NA	2019-02-16
+655643	Lennox Hill	68	NA	Stage I	NA	NA	2019-04-14
+711590	All Saints Hospital	64	NA	Stage 0	NA	NA	2019-03-08
+1072030	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-03-22
+556267	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-05
+849042	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-18
+1027721	All Saints Hospital	64	NA	NA	NA	NA	2019-03-15
+808673	All Saints Hospital	75	NA	NA	NA	NA	2019-04-24
+872213	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-10
+640686	Lennox Hill	81	NA	Stage I	NA	NA	2019-04-17
+889355	All Saints Hospital	70	NA	Stage I	NA	NA	2019-04-06
+1032825	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-03-02
+805461	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-03-29
+999755	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-02-13
+1023827	All Saints Hospital	72	NA	Stage IV	NA	NA	2019-01-13
+910825	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-01-09
+838781	All Saints Hospital	91	NA	Stage I	NA	NA	2019-04-18
+894129	All Saints Hospital	76	NA	NA	NA	NA	2019-03-10
+836522	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-26
+655137	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-26
+118433	St. Mungo's	39	NA	NA	NA	NA	2019-04-20
+959040	All Saints Hospital	75	NA	Stage II	NA	NA	2019-04-25
+1031661	All Saints Hospital	88	2019-03-18	Stage II	NA	NA	2019-03-29
+739040	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-03-27
+1033971	All Saints Hospital	83	NA	Stage I	NA	NA	2019-04-25
+969829	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-24
+1020481	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-26
+1008193	All Saints Hospital	88	2018-09-19	Stage IV	NA	NA	2019-03-13
+931695	All Saints Hospital	46	NA	NA	gemcitabine	NA	2019-04-21
+1034931	All Saints Hospital	85	NA	Stage II	NA	NA	2019-02-27
+1065775	All Saints Hospital	87	NA	Stage II	gemcitabine	NA	2019-04-20
+1007990	All Saints Hospital	89	NA	Stage I	NA	NA	2019-04-28
+918023	Chicago Hope	67	NA	NA	NA	FGFR3 Ter809Lext*?	2019-04-24
+918023	Chicago Hope	67	NA	NA	NA	FGFR3-TACC3 Chromosomal fusion	2019-04-24
+925334	All Saints Hospital	77	NA	Stage III	NA	NA	2019-04-01
+1069538	All Saints Hospital	72	NA	Stage II	NA	NA	2019-04-25
+928801	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-02-12
+854745	All Saints Hospital	76	NA	NA	NA	NA	2019-04-28
+982014	All Saints Hospital	70	NA	Stage I	NA	NA	2019-03-14
+837882	All Saints Hospital	74	NA	Stage I	NA	NA	2019-04-26
+950508	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-12
+846432	All Saints Hospital	89	NA	Stage I	NA	NA	2019-04-28
+814932	All Saints Hospital	95	NA	Stage II	NA	NA	2019-04-12
+861330	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-25
+1043556	All Saints Hospital	87	NA	NA	NA	NA	2019-04-26
+614260	Lennox Hill	82	NA	Stage II	NA	NA	2019-04-17
+918763	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-25
+1000693	All Saints Hospital	86	NA	Stage I	NA	NA	2019-04-04
+883618	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-17
+1077053	All Saints Hospital	91	2018-11-21	Stage 0	NA	NA	2019-04-26
+855373	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-21
+902398	All Saints Hospital	68	NA	Stage I	NA	NA	2019-03-31
+1072771	All Saints Hospital	82	NA	Stage I	NA	NA	2019-04-25
+980167	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-04-25
+308014	Chicago Hope	76	NA	NA	pembrolizumab	NA	2019-04-26
+850557	All Saints Hospital	47	NA	Stage 0	NA	NA	2019-04-18
+1027151	All Saints Hospital	69	NA	Stage I	gemcitabine	NA	2019-01-19
+1027915	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-20
+973669	All Saints Hospital	76	NA	Stage I	NA	NA	2019-03-08
+959335	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-03-13
+1082561	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-24
+829324	All Saints Hospital	81	NA	NA	NA	NA	2019-04-10
+1067837	All Saints Hospital	86	NA	Stage II	atezolizumab	NA	2019-04-25
+857293	All Saints Hospital	77	NA	NA	NA	NA	2019-04-21
+760446	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-28
+699682	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-02-02
+894707	All Saints Hospital	59	NA	Stage IV	gemcitabine	NA	2019-04-24
+874361	All Saints Hospital	79	NA	Stage III	NA	NA	2019-04-25
+880889	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-25
+734792	All Saints Hospital	87	NA	NA	NA	NA	2019-04-20
+856741	All Saints Hospital	55	NA	Stage I	NA	NA	2019-04-20
+876775	All Saints Hospital	86	NA	Stage I	NA	NA	2019-04-14
+994506	All Saints Hospital	78	NA	Stage II	NA	NA	2019-04-19
+953593	All Saints Hospital	80	NA	Stage 0	avelumab	NA	2019-04-28
+788822	Lennox Hill	72	NA	Stage 0	NA	NA	2019-04-21
+850618	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-03-02
+835495	All Saints Hospital	74	NA	Stage I	paclitaxel	NA	2019-04-18
+1034738	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-26
+379636	St. Mungo's	73	NA	Stage 0	NA	NA	2019-04-11
+850861	All Saints Hospital	55	NA	NA	NA	NA	2019-03-31
+712830	All Saints Hospital	81	NA	Stage I	NA	NA	2019-04-18
+33157	St. Mungo's	56	NA	Stage 0	NA	NA	2019-04-05
+862798	All Saints Hospital	96	NA	Stage I	NA	NA	2019-02-03
+1024668	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-04-21
+1039054	All Saints Hospital	90	NA	Stage I	NA	NA	2019-04-11
+812100	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-11
+1019559	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-23
+948303	All Saints Hospital	61	NA	Stage 0	NA	NA	2019-04-26
+1038221	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-04-07
+938941	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-18
+864712	All Saints Hospital	84	NA	Stage I	NA	NA	2019-01-24
+910325	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-03-29
+941725	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-24
+746183	All Saints Hospital	61	NA	Stage II	NA	NA	2019-04-14
+1077558	All Saints Hospital	61	NA	Stage 0	NA	NA	2019-03-09
+800087	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-21
+89390	St. Mungo's	91	NA	Stage II	NA	NA	2019-03-16
+879057	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-03-13
+945290	All Saints Hospital	87	NA	Stage I	NA	NA	2019-03-28
+804108	All Saints Hospital	57	NA	Stage 0	NA	NA	2019-04-26
+712789	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-24
+837878	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-25
+1064128	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-02-10
+1084182	All Saints Hospital	68	2019-03-25	NA	NA	NA	2019-04-25
+953245	All Saints Hospital	64	2018-09-20	Stage I	NA	NA	2019-03-07
+847256	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-20
+775302	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-04
+127652	St. Mungo's	85	NA	Stage I	NA	NA	2019-04-05
+1075506	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-01-27
+1026726	All Saints Hospital	90	NA	Stage IV	NA	NA	2019-01-18
+920387	All Saints Hospital	72	NA	NA	NA	NA	2019-03-30
+769927	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-04-24
+858212	All Saints Hospital	67	NA	Stage I	NA	NA	2019-03-03
+851407	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-13
+1053738	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-01
+731291	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-17
+1074217	All Saints Hospital	95	NA	NA	NA	NA	2019-03-24
+661077	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-20
+532849	All Saints Hospital	68	NA	Stage I	NA	NA	2019-04-16
+823928	Lennox Hill	47	NA	Stage 0	NA	NA	2019-03-23
+947129	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-17
+784772	All Saints Hospital	49	NA	Stage 0	NA	NA	2019-02-15
+136850	St. Mungo's	57	NA	Stage II	NA	NA	2019-04-05
+887300	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-03-07
+635010	Lennox Hill	80	NA	Stage 0	NA	NA	2019-04-25
+790087	All Saints Hospital	59	NA	Stage II	NA	NA	2019-04-25
+942545	All Saints Hospital	69	NA	Stage IV	NA	NA	2019-04-17
+801496	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-13
+1017739	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-28
+844578	All Saints Hospital	75	NA	Stage I	NA	NA	2019-03-13
+149435	St. Mungo's	66	NA	Stage 0	NA	NA	2019-04-24
+1019297	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-18
+950973	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-13
+755959	All Saints Hospital	71	NA	Stage I	NA	NA	2019-04-05
+855364	All Saints Hospital	68	NA	NA	NA	NA	2019-04-21
+619306	Lennox Hill	65	NA	Stage 0	NA	NA	2019-01-23
+836376	All Saints Hospital	66	NA	NA	NA	NA	2019-04-21
+648696	Lennox Hill	81	NA	Stage 0	NA	NA	2019-01-23
+1026914	All Saints Hospital	79	NA	NA	NA	NA	2019-01-24
+768112	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-18
+803469	All Saints Hospital	78	NA	NA	NA	NA	2019-01-11
+780404	All Saints Hospital	70	NA	Stage I	NA	NA	2019-03-21
+1012111	All Saints Hospital	59	NA	Stage I	NA	NA	2019-04-14
+566069	Lennox Hill	67	NA	Stage 0	NA	NA	2019-04-12
+977169	All Saints Hospital	85	2019-02-12	Stage I	NA	NA	2019-03-27
+900857	All Saints Hospital	72	NA	NA	NA	NA	2019-03-07
+882135	All Saints Hospital	82	NA	NA	NA	NA	2019-03-25
+866124	All Saints Hospital	84	NA	Stage II	NA	NA	2019-02-21
+1073855	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-03-30
+1035463	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-05
+969591	All Saints Hospital	88	NA	NA	NA	NA	2019-04-25
+1080264	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-17
+820449	Lennox Hill	57	NA	Stage 0	NA	NA	2019-02-16
+1014525	All Saints Hospital	62	NA	Stage I	NA	NA	2019-03-15
+968502	All Saints Hospital	84	NA	Stage III	NA	NA	2019-04-12
+953051	All Saints Hospital	95	NA	Stage 0	NA	NA	2019-04-11
+824203	All Saints Hospital	66	NA	Stage I	NA	NA	2019-04-10
+889791	All Saints Hospital	76	NA	NA	NA	NA	2019-02-27
+943121	All Saints Hospital	60	NA	NA	NA	NA	2019-03-22
+237622	St. Mungo's	63	NA	NA	NA	NA	2019-01-30
+1054293	All Saints Hospital	55	NA	Stage 0	NA	NA	2019-01-31
+839879	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-28
+898737	All Saints Hospital	91	NA	Stage 0	NA	NA	2019-03-15
+685246	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-06
+1062413	All Saints Hospital	89	NA	Stage I	NA	NA	2019-02-07
+807084	All Saints Hospital	93	NA	Stage I	NA	NA	2019-02-27
+1062165	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-02-21
+659254	Lennox Hill	75	NA	Stage 0	NA	NA	2019-04-19
+649743	Lennox Hill	60	NA	Stage 0	NA	NA	2019-03-21
+858274	All Saints Hospital	93	NA	Stage 0	NA	NA	2019-04-11
+607964	Lennox Hill	73	NA	NA	NA	NA	2019-01-30
+892511	All Saints Hospital	88	NA	Stage I	NA	NA	2019-02-01
+724476	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-01-24
+910642	All Saints Hospital	61	NA	NA	NA	NA	2019-04-21
+887260	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-02-15
+825858	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-26
+861266	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-04-14
+898267	All Saints Hospital	80	NA	NA	NA	NA	2019-04-25
+1022398	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-21
+903963	All Saints Hospital	64	NA	Stage I	NA	NA	2019-04-05
+1077862	All Saints Hospital	87	NA	NA	NA	NA	2019-04-28
+919781	All Saints Hospital	92	NA	NA	NA	NA	2019-04-25
+796852	All Saints Hospital	87	NA	Stage I	NA	NA	2019-04-25
+857497	All Saints Hospital	71	NA	Stage I	NA	NA	2019-04-23
+796349	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-24
+737954	All Saints Hospital	62	NA	Stage 0	NA	NA	2019-04-28
+978256	All Saints Hospital	73	NA	Stage II	gemcitabine	NA	2019-04-28
+954544	All Saints Hospital	68	NA	NA	NA	NA	2019-04-24
+927612	All Saints Hospital	90	2018-11-02	Stage I	NA	NA	2019-04-20
+1020104	All Saints Hospital	38	NA	Stage 0	NA	NA	2019-04-17
+991076	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-04-14
+826975	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-03-29
+1053478	All Saints Hospital	93	NA	Stage 0	NA	NA	2019-04-24
+864912	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-15
+942679	All Saints Hospital	68	NA	NA	gemcitabine	NA	2019-04-17
+917349	All Saints Hospital	91	2018-09-12	Stage 0	NA	NA	2019-02-16
+906401	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-04
+894871	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-24
+831674	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-25
+763791	All Saints Hospital	72	NA	Stage II	pembrolizumab	NA	2019-04-19
+173387	St. Mungo's	78	NA	Stage 0	NA	NA	2019-03-03
+874030	All Saints Hospital	81	NA	Stage II	gemcitabine	NA	2019-04-19
+874030	All Saints Hospital	81	NA	Stage II	atezolizumab	NA	2019-04-19
+941666	All Saints Hospital	79	NA	NA	NA	NA	2019-04-22
+708858	Lennox Hill	76	NA	Stage 0	NA	NA	2019-04-21
+890423	All Saints Hospital	71	NA	NA	NA	NA	2019-04-24
+897086	All Saints Hospital	68	NA	Stage I	NA	NA	2019-04-21
+959813	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-04-21
+979470	All Saints Hospital	67	NA	Stage III	NA	NA	2019-04-18
+872331	All Saints Hospital	90	2018-12-13	Stage 0	NA	NA	2019-04-06
+956336	All Saints Hospital	84	NA	Stage I	NA	NA	2019-04-19
+982866	All Saints Hospital	60	NA	NA	gemcitabine	NA	2019-04-19
+1065220	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-21
+967133	All Saints Hospital	74	NA	NA	NA	NA	2019-04-12
+976807	All Saints Hospital	72	NA	NA	NA	NA	2019-04-24
+861770	All Saints Hospital	85	NA	Stage I	NA	NA	2019-04-17
+1043761	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-04-26
+977610	All Saints Hospital	48	NA	Stage 0	NA	NA	2019-04-04
+1054142	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-03-05
+1059906	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-18
+934194	All Saints Hospital	86	NA	Stage 0	pembrolizumab	NA	2019-04-25
+947564	All Saints Hospital	66	NA	Stage 0	NA	NA	2019-03-01
+816386	All Saints Hospital	77	NA	Stage IV	gemcitabine	NA	2019-04-28
+1021812	All Saints Hospital	67	NA	NA	paclitaxel	NA	2019-04-25
+1021812	All Saints Hospital	67	NA	NA	gemcitabine	NA	2019-04-25
+1021812	All Saints Hospital	67	NA	NA	pembrolizumab	NA	2019-04-25
+795998	All Saints Hospital	88	NA	Stage 0	paclitaxel	NA	2019-04-25
+1040072	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-02-27
+878664	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-03-06
+582903	Lennox Hill	68	NA	Stage 0	NA	NA	2019-04-12
+798830	All Saints Hospital	91	NA	Stage I	NA	NA	2019-04-11
+1024481	St. Mungo's	74	NA	Stage II	NA	NA	2019-04-12
+891639	All Saints Hospital	74	NA	NA	NA	NA	2019-04-24
+754687	All Saints Hospital	54	NA	NA	NA	NA	2019-04-28
+864313	All Saints Hospital	65	NA	Stage II	gemcitabine	NA	2019-02-15
+890114	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-11
+164428	St. Mungo's	82	NA	Stage III	gemcitabine	NA	2019-02-20
+929207	All Saints Hospital	81	2019-03-16	Stage 0	NA	NA	2019-03-25
+990597	All Saints Hospital	85	NA	Stage I	NA	NA	2019-04-26
+1040155	All Saints Hospital	74	NA	Stage I	NA	NA	2019-03-08
+678176	Lennox Hill	59	NA	Stage III	NA	NA	2019-03-29
+837595	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-25
+826275	All Saints Hospital	91	NA	Stage I	atezolizumab	NA	2019-04-14
+1058480	All Saints Hospital	53	NA	Stage I	NA	NA	2019-04-11
+760366	All Saints Hospital	94	NA	NA	NA	NA	2019-04-24
+844064	All Saints Hospital	56	NA	Stage II	NA	NA	2019-04-24
+930944	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-18
+908577	Lennox Hill	76	NA	Stage I	NA	NA	2019-04-23
+803132	All Saints Hospital	57	NA	Stage 0	NA	NA	2019-03-08
+880801	All Saints Hospital	77	NA	Stage III	NA	NA	2019-04-25
+804038	All Saints Hospital	74	NA	Stage IV	NA	NA	2019-04-13
+720987	Lennox Hill	73	NA	Stage I	NA	NA	2019-03-07
+917841	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-02-14
+368552	St. Mungo's	53	NA	Stage I	NA	NA	2019-02-27
+1005319	All Saints Hospital	84	NA	Stage I	NA	NA	2019-04-28
+1046288	All Saints Hospital	72	NA	NA	NA	NA	2019-04-03
+760384	All Saints Hospital	68	NA	NA	NA	NA	2019-04-26
+1056540	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-14
+859853	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-28
+126925	St. Mungo's	74	NA	Stage 0	NA	NA	2019-03-28
+972499	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-22
+1048737	All Saints Hospital	63	NA	Stage I	NA	NA	2019-04-25
+289424	Chicago Hope	69	NA	NA	NA	NA	2019-03-20
+1025814	All Saints Hospital	81	NA	Stage II	NA	NA	2019-04-10
+811440	All Saints Hospital	59	NA	Stage 0	NA	NA	2019-04-12
+1081046	All Saints Hospital	74	NA	NA	NA	NA	2019-04-19
+937010	All Saints Hospital	95	NA	Stage 0	gemcitabine	NA	2019-04-18
+728645	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-02-20
+1056789	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-25
+137154	St. Mungo's	80	NA	Stage I	NA	NA	2019-03-28
+713947	All Saints Hospital	103	NA	NA	NA	NA	2019-03-10
+1051540	All Saints Hospital	78	NA	Stage I	NA	NA	2019-04-24
+1049426	All Saints Hospital	87	NA	Stage I	NA	NA	2019-04-24
+641529	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-04-26
+923329	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-26
+677539	All Saints Hospital	86	NA	NA	NA	NA	2019-04-04
+54933	St. Mungo's	76	NA	Stage II	NA	NA	2019-04-03
+73923	St. Mungo's	72	NA	Stage III	NA	NA	2019-03-21
+881329	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-03-10
+436482	St. Mungo's	45	NA	Stage I	NA	NA	2019-03-10
+1052921	All Saints Hospital	91	NA	Stage 0	NA	NA	2019-04-26
+860017	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-26
+824006	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-26
+82434	St. Mungo's	87	NA	Stage 0	NA	NA	2019-03-20
+668464	All Saints Hospital	85	NA	Stage I	NA	NA	2019-01-25
+617169	All Saints Hospital	65	NA	Stage 0	NA	NA	2019-03-28
+812974	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-14
+882052	All Saints Hospital	74	NA	Stage I	gemcitabine	NA	2019-04-07
+1026228	All Saints Hospital	80	NA	Stage IV	NA	NA	2019-04-06
+1055574	All Saints Hospital	84	NA	NA	NA	NA	2019-01-17
+38150	St. Mungo's	77	NA	Stage II	gemcitabine	NA	2019-02-07
+685492	All Saints Hospital	95	NA	NA	NA	NA	2019-02-05
+43357	St. Mungo's	71	NA	NA	NA	NA	2019-03-28
+845986	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-26
+728452	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-12
+815662	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-15
+625764	Lennox Hill	71	NA	NA	NA	NA	2019-04-24
+1012578	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-03-20
+864015	All Saints Hospital	50	NA	Stage 0	NA	NA	2019-03-16
+1050245	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-02-22
+113064	St. Mungo's	62	NA	Stage 0	NA	NA	2019-03-22
+922652	All Saints Hospital	95	NA	Stage 0	NA	NA	2019-04-07
+977861	All Saints Hospital	65	NA	Stage I	NA	NA	2019-03-13
+926362	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-03-17
+421157	St. Mungo's	69	NA	Stage 0	NA	NA	2019-04-21
+1001834	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-02-28
+1041253	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-14
+746553	Lennox Hill	71	NA	Stage 0	NA	NA	2019-04-25
+759839	Lennox Hill	82	NA	Stage 0	NA	NA	2019-03-07
+581275	Lennox Hill	81	NA	Stage I	NA	NA	2019-04-17
+352096	St. Mungo's	79	NA	Stage I	NA	NA	2019-03-01
+990394	All Saints Hospital	85	NA	Stage II	NA	NA	2019-03-20
+783871	All Saints Hospital	67	NA	NA	NA	NA	2019-04-24
+862168	All Saints Hospital	61	NA	Stage IV	NA	NA	2019-02-07
+1078270	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-25
+843127	All Saints Hospital	56	NA	Stage 0	NA	NA	2019-03-27
+710761	All Saints Hospital	89	NA	Stage III	NA	NA	2019-04-20
+790115	All Saints Hospital	83	NA	NA	pembrolizumab	NA	2019-04-21
+741828	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-04-26
+148671	St. Mungo's	72	NA	Stage IV	NA	NA	2019-04-24
+917706	All Saints Hospital	77	2018-07-30	Stage II	NA	NA	2019-01-23
+949407	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-03-17
+1054761	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-23
+813745	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-03-11
+820607	All Saints Hospital	57	2018-08-22	Stage III	NA	NA	2019-02-07
+831570	All Saints Hospital	85	NA	Stage 0	NA	NA	2019-04-21
+999334	All Saints Hospital	65	NA	Stage 0	NA	NA	2019-03-29
+891168	All Saints Hospital	84	NA	NA	NA	NA	2019-03-24
+1052932	All Saints Hospital	55	NA	Stage IV	NA	NA	2019-04-14
+790325	All Saints Hospital	78	NA	Stage II	NA	NA	2019-03-09
+1031766	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-18
+919580	All Saints Hospital	79	NA	Stage I	NA	NA	2019-03-16
+355893	St. Mungo's	82	NA	Stage 0	NA	NA	2019-04-26
+818827	All Saints Hospital	72	NA	Stage II	NA	NA	2019-03-31
+841433	All Saints Hospital	82	NA	NA	NA	NA	2019-01-19
+811796	All Saints Hospital	65	NA	Stage I	NA	NA	2019-01-20
+834742	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-24
+1044884	All Saints Hospital	100	NA	Stage 0	NA	NA	2019-02-25
+816500	All Saints Hospital	71	NA	Stage IV	NA	NA	2019-04-26
+830098	All Saints Hospital	84	NA	Stage I	NA	NA	2019-04-28
+882852	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-03-31
+939976	All Saints Hospital	71	NA	Stage IV	NA	NA	2019-04-21
+818429	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-01-31
+841925	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-03-24
+535059	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-20
+929722	All Saints Hospital	98	NA	Stage 0	NA	NA	2019-02-01
+795924	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-14
+100288	St. Mungo's	75	NA	Stage I	NA	NA	2019-04-05
+724475	Lennox Hill	78	NA	Stage 0	NA	NA	2019-02-24
+881580	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-18
+927135	All Saints Hospital	89	NA	Stage I	NA	NA	2019-01-18
+1021884	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-03-21
+704481	All Saints Hospital	89	NA	Stage II	NA	NA	2019-04-25
+886331	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-02-01
+807608	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-02-13
+1038572	All Saints Hospital	70	NA	NA	NA	NA	2019-04-19
+935193	All Saints Hospital	75	NA	NA	NA	NA	2019-04-05
+679893	All Saints Hospital	88	2018-11-04	Stage 0	NA	NA	2019-04-25
+8907	St. Mungo's	73	NA	Stage II	gemcitabine	NA	2019-04-21
+1011471	All Saints Hospital	69	NA	NA	NA	NA	2019-04-28
+733241	All Saints Hospital	76	NA	Stage III	gemcitabine	NA	2019-04-25
+850648	All Saints Hospital	64	NA	Stage 0	NA	NA	2019-04-24
+761313	All Saints Hospital	87	NA	Stage 0	gemcitabine	NA	2019-04-26
+761313	All Saints Hospital	87	NA	Stage 0	paclitaxel	NA	2019-04-26
+1019140	All Saints Hospital	79	NA	Stage I	NA	NA	2019-04-19
+953407	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-26
+317146	Chicago Hope	75	NA	NA	NA	NA	2019-04-24
+872618	All Saints Hospital	94	NA	Stage II	NA	NA	2019-04-24
+1078540	All Saints Hospital	58	NA	Stage I	NA	NA	2019-04-26
+880995	All Saints Hospital	83	NA	NA	NA	NA	2019-04-18
+907210	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-20
+1055267	All Saints Hospital	73	NA	Stage I	NA	NA	2019-04-19
+842527	All Saints Hospital	87	NA	NA	NA	NA	2019-04-28
+1054901	All Saints Hospital	77	2018-10-01	Stage 0	NA	NA	2019-04-13
+709074	All Saints Hospital	91	NA	Stage I	NA	NA	2019-04-20
+17121	St. Mungo's	56	NA	Stage 0	NA	NA	2019-04-12
+897357	All Saints Hospital	81	NA	NA	NA	NA	2019-04-26
+889018	All Saints Hospital	87	2018-09-24	Stage 0	NA	NA	2019-03-13
+831191	All Saints Hospital	77	NA	NA	NA	NA	2019-04-19
+1068162	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-19
+847705	All Saints Hospital	78	NA	Stage I	NA	NA	2019-04-17
+902337	All Saints Hospital	68	NA	Stage I	NA	NA	2019-04-12
+935631	All Saints Hospital	67	NA	Stage I	NA	NA	2019-03-14
+1056576	All Saints Hospital	79	NA	NA	NA	NA	2019-04-24
+942613	All Saints Hospital	95	2018-09-13	NA	NA	NA	2019-04-02
+1033220	All Saints Hospital	78	NA	Stage II	NA	NA	2019-04-25
+1025102	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-28
+1441	St. Mungo's	65	NA	Stage 0	NA	NA	2019-03-22
+886784	All Saints Hospital	58	NA	NA	NA	NA	2019-04-26
+62006	St. Mungo's	74	NA	Stage 0	NA	NA	2019-03-28
+881829	All Saints Hospital	34	NA	Stage 0	NA	NA	2019-03-08
+924511	All Saints Hospital	72	NA	Stage I	NA	NA	2019-04-20
+825463	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-19
+913636	All Saints Hospital	68	NA	Stage I	NA	NA	2019-04-20
+1021141	All Saints Hospital	76	NA	NA	NA	NA	2019-04-21
+851466	All Saints Hospital	98	NA	Stage 0	NA	NA	2019-04-12
+940915	All Saints Hospital	58	NA	Stage 0	NA	NA	2019-02-16
+1083630	All Saints Hospital	75	NA	Stage I	gemcitabine	NA	2019-04-25
+1071409	All Saints Hospital	62	NA	Stage 0	NA	NA	2019-02-28
+897353	All Saints Hospital	84	NA	Stage I	NA	NA	2019-04-21
+1012207	All Saints Hospital	63	NA	Stage 0	NA	NA	2019-04-25
+722651	All Saints Hospital	80	NA	Stage IV	pembrolizumab	NA	2019-04-19
+722651	All Saints Hospital	80	NA	Stage IV	gemcitabine	NA	2019-04-19
+663320	Lennox Hill	74	NA	Stage II	NA	NA	2019-04-25
+834599	All Saints Hospital	68	NA	NA	NA	NA	2019-04-17
+801300	All Saints Hospital	85	NA	Stage I	NA	NA	2019-04-26
+831691	All Saints Hospital	76	NA	Stage III	NA	NA	2019-03-16
+653830	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-04-21
+523964	Lennox Hill	64	NA	NA	NA	NA	2019-04-07
+1052378	All Saints Hospital	81	NA	Stage I	NA	NA	2019-03-07
+835134	All Saints Hospital	65	NA	NA	NA	NA	2019-03-24
+727288	All Saints Hospital	79	NA	NA	NA	NA	2019-04-24
+897416	All Saints Hospital	84	NA	Stage 0	atezolizumab	NA	2019-04-25
+956835	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-28
+620890	Chicago Hope	68	NA	NA	NA	NA	2019-04-19
+958549	All Saints Hospital	78	NA	Stage IV	NA	NA	2019-04-20
+879851	All Saints Hospital	74	NA	Stage II	NA	NA	2019-04-17
+768011	Lennox Hill	65	NA	Stage I	NA	NA	2019-04-14
+421203	Lennox Hill	90	NA	Stage I	NA	NA	2019-04-07
+865327	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-02-24
+66907	St. Mungo's	56	NA	Stage 0	NA	NA	2019-04-04
+898823	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-25
+806607	All Saints Hospital	64	NA	Stage 0	NA	NA	2019-03-23
+922051	All Saints Hospital	66	NA	Stage II	atezolizumab	NA	2019-04-26
+981302	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-02-23
+926158	All Saints Hospital	72	NA	NA	NA	NA	2019-03-22
+822527	All Saints Hospital	80	NA	NA	NA	NA	2019-03-29
+81716	St. Mungo's	49	NA	Stage II	gemcitabine	NA	2019-03-22
+868457	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-11
+540371	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-25
+869064	All Saints Hospital	89	2018-10-19	Stage 0	NA	NA	2019-04-01
+1042855	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-04-24
+878320	All Saints Hospital	93	NA	Stage 0	NA	NA	2019-02-21
+896371	All Saints Hospital	85	NA	Stage III	NA	NA	2019-02-23
+1003075	All Saints Hospital	63	NA	Stage 0	NA	NA	2019-04-07
+820847	All Saints Hospital	91	NA	Stage I	NA	NA	2019-02-22
+372902	St. Mungo's	71	NA	Stage 0	NA	NA	2019-03-21
+57402	St. Mungo's	78	NA	Stage IV	NA	NA	2019-03-09
+166421	St. Mungo's	83	NA	Stage 0	NA	NA	2019-04-24
+786740	All Saints Hospital	60	NA	Stage 0	NA	NA	2019-04-03
+863064	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-21
+1047059	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-10
+1004944	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-02-22
+1079360	All Saints Hospital	80	NA	Stage II	NA	NA	2019-04-03
+1052860	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-17
+517572	Chicago Hope	65	NA	NA	NA	NA	2019-01-10
+19834	St. Mungo's	89	NA	Stage 0	gemcitabine	NA	2019-03-13
+953538	All Saints Hospital	38	NA	Stage 0	NA	NA	2019-03-25
+923027	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-02-27
+864134	All Saints Hospital	71	NA	Stage I	NA	NA	2019-04-17
+891138	All Saints Hospital	95	NA	NA	NA	NA	2019-02-07
+694529	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-05
+836529	Lennox Hill	87	NA	Stage 0	NA	NA	2019-04-04
+562477	Lennox Hill	87	NA	Stage 0	NA	NA	2019-03-19
+969391	All Saints Hospital	82	NA	Stage III	NA	NA	2019-04-19
+1001068	All Saints Hospital	69	2019-03-03	Stage II	NA	NA	2019-04-26
+815125	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-11
+38072	St. Mungo's	70	NA	NA	NA	NA	2019-04-21
+844531	All Saints Hospital	80	NA	Stage 0	NA	NA	2019-03-23
+766568	All Saints Hospital	74	NA	Stage II	NA	NA	2019-04-26
+32057	St. Mungo's	90	NA	Stage 0	NA	NA	2019-03-14
+1022567	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-18
+946954	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-16
+876929	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-02-28
+1036698	All Saints Hospital	78	NA	NA	NA	NA	2019-01-17
+977686	All Saints Hospital	79	NA	NA	NA	NA	2019-04-07
+1082505	All Saints Hospital	74	NA	Stage II	NA	NA	2019-04-18
+874129	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-03-16
+930548	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-01-17
+741595	Lennox Hill	76	NA	Stage I	NA	NA	2019-02-03
+1047682	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-07
+939696	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-16
+952846	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-03-28
+1048865	All Saints Hospital	70	NA	Stage 0	NA	NA	2019-04-04
+724696	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-05
+896299	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-02-15
+944037	All Saints Hospital	58	NA	NA	NA	NA	2019-02-17
+928040	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-03-02
+156855	St. Mungo's	67	NA	Stage 0	NA	NA	2019-03-24
+1058380	All Saints Hospital	66	NA	Stage I	NA	NA	2019-04-25
+832462	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-02-07
+952820	All Saints Hospital	73	NA	NA	NA	NA	2019-02-16
+797695	All Saints Hospital	63	NA	Stage 0	NA	NA	2019-04-04
+999677	All Saints Hospital	92	NA	Stage 0	NA	NA	2019-03-06
+779599	All Saints Hospital	52	NA	Stage II	NA	NA	2019-03-06
+868092	Lennox Hill	86	NA	Stage II	NA	NA	2019-03-10
+815108	All Saints Hospital	82	NA	Stage I	NA	NA	2019-03-03
+954846	All Saints Hospital	72	NA	Stage 0	NA	NA	2019-04-19
+910545	All Saints Hospital	72	NA	Stage II	pembrolizumab	NA	2019-01-15
+833702	All Saints Hospital	52	NA	Stage I	NA	NA	2019-04-05
+643717	All Saints Hospital	69	NA	Stage I	NA	NA	2019-01-19
+870647	All Saints Hospital	80	NA	NA	NA	NA	2019-01-31
+1067978	All Saints Hospital	75	NA	Stage I	NA	NA	2019-02-22
+811357	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-26
+972046	All Saints Hospital	48	NA	NA	NA	NA	2019-04-17
+1035443	All Saints Hospital	102	NA	Stage 0	NA	NA	2019-04-24
+945400	All Saints Hospital	78	2019-01-16	Stage 0	pembrolizumab	NA	2019-04-24
+984564	All Saints Hospital	61	NA	Stage II	gemcitabine	NA	2019-04-20
+952615	All Saints Hospital	72	2018-10-05	Stage 0	NA	NA	2019-03-29
+1019687	All Saints Hospital	99	NA	Stage I	NA	NA	2019-04-26
+647155	Lennox Hill	76	NA	Stage I	NA	NA	2019-04-26
+1023130	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-04-24
+879700	All Saints Hospital	84	NA	NA	NA	NA	2019-04-18
+1021116	All Saints Hospital	73	NA	Stage IV	atezolizumab	NA	2019-04-26
+1021116	All Saints Hospital	73	NA	Stage IV	gemcitabine	NA	2019-04-26
+150758	St. Mungo's	80	NA	Stage I	NA	NA	2019-04-24
+895235	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-11
+754430	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-04-24
+949125	All Saints Hospital	86	NA	Stage I	NA	NA	2019-04-28
+1035467	All Saints Hospital	89	2018-10-31	Stage I	nivolumab	NA	2019-04-20
+963837	All Saints Hospital	71	NA	Stage IV	NA	NA	2019-04-13
+813765	All Saints Hospital	63	NA	Stage IV	NA	NA	2019-04-20
+742234	All Saints Hospital	87	NA	NA	NA	NA	2019-01-11
+869100	All Saints Hospital	70	NA	Stage II	NA	NA	2019-03-08
+850499	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-01-06
+674948	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-21
+1050835	All Saints Hospital	74	NA	Stage II	paclitaxel	NA	2019-04-25
+835695	All Saints Hospital	85	NA	NA	NA	NA	2019-04-26
+57035	St. Mungo's	78	2018-09-02	Stage III	NA	NA	2019-01-19
+901434	All Saints Hospital	83	NA	Stage 0	paclitaxel	NA	2019-04-26
+1049860	All Saints Hospital	72	NA	Stage II	paclitaxel	NA	2019-04-14
+838609	All Saints Hospital	62	2018-09-05	Stage 0	NA	NA	2019-02-21
+955147	All Saints Hospital	88	NA	Stage I	NA	NA	2019-04-03
+1042617	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-25
+990978	All Saints Hospital	86	NA	Stage I	NA	NA	2019-04-20
+1011726	All Saints Hospital	83	NA	Stage III	pembrolizumab	NA	2019-04-26
+1047732	All Saints Hospital	57	NA	Stage III	NA	NA	2019-04-26
+1018806	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-04-26
+953997	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-18
+899598	All Saints Hospital	81	NA	Stage I	NA	NA	2019-02-16
+751712	All Saints Hospital	77	NA	Stage I	NA	NA	2019-04-21
+972901	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-04-26
+1032292	All Saints Hospital	80	NA	Stage I	NA	NA	2019-04-19
+801836	All Saints Hospital	64	NA	NA	NA	NA	2019-04-26
+885202	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-26
+1037636	All Saints Hospital	67	NA	Stage IV	gemcitabine	NA	2019-04-13
+708325	Lennox Hill	76	NA	Stage I	NA	NA	2019-04-25
+736893	All Saints Hospital	67	NA	Stage I	NA	NA	2019-04-13
+966434	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-03-06
+983768	All Saints Hospital	57	NA	Stage IV	NA	NA	2019-02-27
+778848	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-19
+950524	All Saints Hospital	93	NA	NA	NA	NA	2019-03-23
+940584	All Saints Hospital	76	NA	Stage I	NA	NA	2019-03-27
+865383	All Saints Hospital	76	NA	NA	gemcitabine	NA	2019-04-21
+826728	All Saints Hospital	72	NA	Stage I	NA	NA	2019-04-19
+839335	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-25
+856573	All Saints Hospital	82	NA	Stage 0	NA	NA	2019-03-08
+1043404	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-04-20
+809741	All Saints Hospital	80	NA	Stage II	NA	NA	2019-02-17
+939657	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-22
+1025900	All Saints Hospital	81	NA	Stage IV	pembrolizumab	NA	2019-04-26
+787958	All Saints Hospital	84	NA	Stage IV	gemcitabine	NA	2019-04-13
+889472	All Saints Hospital	69	NA	Stage I	NA	NA	2019-01-31
+1023451	All Saints Hospital	86	NA	Stage 0	NA	NA	2019-04-28
+365668	St. Mungo's	63	NA	Stage 0	NA	NA	2019-04-03
+1018887	All Saints Hospital	53	NA	Stage 0	NA	NA	2019-04-24
+1043749	All Saints Hospital	64	NA	Stage III	NA	NA	2019-02-03
+855712	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-03-22
+633345	All Saints Hospital	86	NA	Stage I	NA	NA	2019-01-09
+790159	All Saints Hospital	92	NA	Stage II	NA	NA	2019-04-26
+841559	All Saints Hospital	48	NA	Stage IV	NA	NA	2019-04-20
+336835	Chicago Hope	61	NA	NA	NA	NA	2019-04-26
+884010	All Saints Hospital	77	NA	Stage II	NA	NA	2019-02-02
+1054500	All Saints Hospital	57	NA	Stage 0	NA	NA	2019-04-25
+528745	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-14
+862307	All Saints Hospital	88	NA	Stage III	gemcitabine	NA	2019-04-20
+1025449	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-04-19
+877569	All Saints Hospital	50	NA	Stage 0	NA	NA	2019-04-25
+842145	All Saints Hospital	66	NA	Stage 0	NA	NA	2019-04-24
+910465	All Saints Hospital	78	NA	NA	NA	NA	2019-03-10
+862240	All Saints Hospital	84	NA	NA	NA	NA	2019-01-24
+880604	All Saints Hospital	72	NA	Stage I	NA	NA	2019-03-23
+931554	All Saints Hospital	81	NA	Stage III	NA	NA	2019-03-31
+779696	All Saints Hospital	61	NA	Stage 0	NA	NA	2019-04-03
+893514	All Saints Hospital	69	NA	NA	NA	NA	2019-04-25
+625951	Lennox Hill	82	NA	Stage 0	NA	NA	2019-04-19
+244756	St. Mungo's	62	NA	Stage III	gemcitabine	NA	2019-04-03
+979751	All Saints Hospital	90	NA	Stage 0	pembrolizumab	NA	2019-04-28
+734429	All Saints Hospital	72	NA	NA	NA	NA	2019-04-20
+985014	All Saints Hospital	87	NA	NA	NA	NA	2019-04-14
+742333	All Saints Hospital	75	NA	NA	NA	NA	2019-04-24
+961964	All Saints Hospital	85	NA	Stage II	gemcitabine	NA	2019-04-24
+775895	All Saints Hospital	77	NA	Stage I	NA	NA	2019-03-30
+1081535	All Saints Hospital	73	NA	Stage 0	NA	NA	2019-04-03
+907811	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-20
+1043895	Chicago Hope	83	NA	NA	NA	NA	2019-04-25
+106245	St. Mungo's	89	NA	Stage 0	NA	NA	2019-01-26
+452578	Lennox Hill	68	NA	Stage I	NA	NA	2019-04-10
+918630	Chicago Hope	77	NA	NA	NA	NA	2019-04-26
+125706	St. Mungo's	78	NA	Stage 0	NA	NA	2019-01-18
+922380	All Saints Hospital	84	NA	Stage 0	NA	NA	2019-03-15
+884604	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-02-15
+196428	St. Mungo's	82	NA	Stage III	gemcitabine	NA	2019-04-25
+779968	All Saints Hospital	64	NA	NA	NA	NA	2019-01-31
+728173	All Saints Hospital	88	NA	NA	NA	NA	2019-04-12
+766015	All Saints Hospital	75	NA	Stage I	NA	NA	2019-04-24
+957035	All Saints Hospital	83	NA	NA	NA	NA	2019-04-25
+935451	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-04-17
+904201	All Saints Hospital	76	NA	Stage 0	NA	NA	2019-03-17
+748918	All Saints Hospital	87	NA	Stage 0	NA	NA	2019-04-21
+670832	Lennox Hill	64	NA	Stage 0	gemcitabine	NA	2019-04-26
+754176	All Saints Hospital	89	NA	Stage 0	NA	NA	2019-04-25
+209857	St. Mungo's	64	NA	Stage III	gemcitabine	NA	2019-04-12
+920139	All Saints Hospital	90	NA	Stage 0	NA	NA	2019-03-16
+1056937	All Saints Hospital	88	NA	NA	NA	NA	2019-04-12
+1012231	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-04-24
+894041	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-02-13
+973581	All Saints Hospital	92	NA	NA	NA	NA	2019-04-24
+981266	All Saints Hospital	91	NA	Stage IV	NA	NA	2019-02-28
+935546	All Saints Hospital	95	NA	NA	NA	NA	2019-03-02
+764423	Lennox Hill	82	NA	Stage 0	NA	NA	2019-02-23
+632927	Lennox Hill	80	NA	Stage III	NA	NA	2019-01-25
+653315	All Saints Hospital	64	NA	Stage 0	NA	NA	2019-04-28
+243064	St. Mungo's	57	NA	NA	NA	NA	2019-04-03
+945055	All Saints Hospital	83	NA	NA	NA	NA	2019-03-27
+948855	All Saints Hospital	66	NA	NA	NA	NA	2019-02-19
+795074	St. Mungo's	59	NA	Stage II	NA	NA	2019-04-13
+645529	All Saints Hospital	75	NA	NA	NA	NA	2019-04-20
+127549	St. Mungo's	72	NA	Stage 0	NA	NA	2019-03-21
+982957	All Saints Hospital	93	NA	NA	NA	NA	2019-01-22
+1079110	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-03-23
+839819	All Saints Hospital	75	NA	Stage 0	docetaxel	NA	2019-01-31
+955082	All Saints Hospital	67	NA	Stage 0	NA	NA	2019-03-29
+980311	All Saints Hospital	78	NA	NA	NA	NA	2019-03-24
+907840	All Saints Hospital	50	NA	Stage I	NA	NA	2019-01-11
+1065317	All Saints Hospital	65	NA	NA	NA	NA	2019-04-12
+879473	All Saints Hospital	64	NA	Stage I	gemcitabine	NA	2019-04-03
+910888	All Saints Hospital	56	NA	Stage 0	NA	NA	2019-03-22
+256637	St. Mungo's	60	NA	Stage 0	NA	NA	2019-04-05
+872508	All Saints Hospital	68	NA	Stage 0	NA	NA	2019-03-22
+929243	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-03-09
+882084	All Saints Hospital	75	NA	Stage 0	NA	NA	2019-03-07
+791016	All Saints Hospital	71	NA	Stage 0	NA	NA	2019-04-18
+1071349	All Saints Hospital	78	NA	NA	NA	NA	2019-04-26
+773280	All Saints Hospital	63	NA	Stage 0	NA	NA	2019-01-25
+633337	All Saints Hospital	87	NA	NA	NA	NA	2019-01-26
+231311	St. Mungo's	66	NA	Stage 0	NA	NA	2019-03-13
+477514	Lennox Hill	66	NA	Stage 0	NA	NA	2019-04-24
+530809	All Saints Hospital	65	NA	Stage II	NA	NA	2019-01-11
+691079	All Saints Hospital	78	NA	NA	NA	NA	2019-03-13
+1029472	All Saints Hospital	80	NA	Stage III	NA	NA	2019-04-11
+980132	All Saints Hospital	85	NA	Stage IV	NA	NA	2019-02-22
+544394	Lennox Hill	75	NA	Stage 0	NA	NA	2019-04-02
+918866	All Saints Hospital	67	NA	Stage I	NA	NA	2019-03-21
+1073974	All Saints Hospital	83	NA	Stage 0	NA	NA	2019-02-13
+847948	All Saints Hospital	74	NA	Stage 0	NA	NA	2019-04-14
+753282	All Saints Hospital	80	NA	NA	NA	NA	2019-03-23
+133203	St. Mungo's	50	NA	Stage I	NA	NA	2019-01-31
+744490	All Saints Hospital	91	NA	Stage II	NA	NA	2019-04-22
+498659	Lennox Hill	78	NA	Stage 0	NA	NA	2019-03-29
+802702	All Saints Hospital	83	NA	Stage I	NA	NA	2019-01-11
+835418	All Saints Hospital	62	NA	Stage III	NA	NA	2019-03-10
+853335	All Saints Hospital	69	NA	NA	NA	NA	2019-02-25
+1055238	All Saints Hospital	69	NA	Stage 0	NA	NA	2019-03-29
+815894	All Saints Hospital	58	NA	Stage I	NA	NA	2019-02-27
+203828	St. Mungo's	82	NA	NA	NA	NA	2019-02-08
+739073	Lennox Hill	73	NA	NA	NA	NA	2019-04-17
+1053563	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-04-25
+790744	All Saints Hospital	60	NA	Stage 0	NA	NA	2019-03-15
+937187	All Saints Hospital	81	NA	Stage 0	NA	NA	2019-01-27
+1057725	All Saints Hospital	91	2016-12-11	Stage IV	NA	NA	2019-01-11
+678787	Lennox Hill	68	NA	Stage 0	NA	NA	2019-03-13
+42990	St. Mungo's	83	NA	Stage II	NA	NA	2019-01-23
+1037070	All Saints Hospital	100	NA	Stage I	NA	NA	2019-02-16
+853420	All Saints Hospital	63	NA	Stage I	NA	NA	2019-04-18
+825231	All Saints Hospital	79	NA	Stage 0	NA	NA	2019-04-26
+827588	All Saints Hospital	75	NA	Stage I	NA	NA	2019-03-28
+678872	Lennox Hill	63	NA	Stage 0	NA	NA	2019-04-24
+1021808	All Saints Hospital	77	NA	Stage 0	NA	NA	2019-02-14
+901634	All Saints Hospital	78	NA	Stage 0	NA	NA	2019-01-27
+37728	St. Mungo's	92	NA	Stage III	NA	NA	2019-01-31
+505111	Lennox Hill	79	NA	NA	NA	NA	2019-02-13
