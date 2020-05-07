@@ -14,7 +14,7 @@ waterfall <- as.data.frame(fread("src/take_home_waterfall.tsv"))
 waterfall[is.na(waterfall)] <- "Not Available"
 #3
 filter = list(waterfall$age <= 60,
-              waterfall$encounter_date >= (Sys.Date() -730), 
+              waterfall$encounter_date >= (Sys.Date() -1030), 
               waterfall$stage != "Stage IV"
 )
 #4
@@ -26,9 +26,9 @@ options(shiny.sanitize.errors = F)
 
 ############################################################################################
 ui <- dashboardPage(
-  dashboardHeader(title = "Huijun An Presentation",
-                  titleWidth = 390),
-  dashboardSidebar(width = 390,
+  dashboardHeader(title = "Huijun Presentation",
+                  titleWidth = 330),
+  dashboardSidebar(width = 330,
                    sidebarMenu(
                      menuItem("Self-introduction", tabName = "intro", icon = icon("user"),
                               menuSubItem("About me", tabName = "me", icon = icon("angle-right")),
@@ -135,10 +135,11 @@ ui <- dashboardPage(
                 # project tab
                 tabItem(tabName = "p",
                         fluidRow(
-                        box(title = strong("Filter Tool with Sample Data",
+                        box(width = 45, collapsible = T,
+                            title = strong("Filter Tool with Sample Data",
                           style = "color: #00688b ;
                                    font-size: 30px"),
-                        orderInput(
+                        column(4, orderInput(
                           inputId = 'B',
                           label = 'Selected Filters (please drag the filters in needed order)',
                           items = as.list(filter_input),
@@ -146,9 +147,10 @@ ui <- dashboardPage(
                           placeholder = "None Selected",
                           width = "150px"
                         ),
-                        br(),
+                        br()),
                         
-                        orderInput(
+                        
+                        column(4, orderInput(
                           inputId = 'A',
                           label = 'Unused Filters',
                           items = NULL,
@@ -156,8 +158,8 @@ ui <- dashboardPage(
                           placeholder = "Please drag unwanted filters here",
                           width = "150px"
                         ),
-                        br(),
-                        prettyCheckbox(inputId = "checkbox",
+                        br()),
+                        column(4, prettyCheckbox(inputId = "checkbox",
                                        label = "Show Percentage",
                                        thick = TRUE, shape = "curve", animation = "pulse", status = "info"),
                         
@@ -169,12 +171,19 @@ ui <- dashboardPage(
                                                       "Percentage of unfiltered patient count in each health system" = "c"),
                                        selected = "c")),
                         
-                        downloadButton("downloadData", "Download CSV")),
-                        box(verbatimTextOutput('order'),
-                        tableOutput('table'),
-                        tableOutput('table2')),
-                        box(plotlyOutput("plot")),
-                        verbatimTextOutput("clickevent"))
+                        downloadButton("downloadData", "Download CSV")))),
+                        
+                        box(width = 4, 
+                            title = strong("Patient Funnel Table",style = "color: #00688b ;
+                                   font-size: 24px"), 
+                            # verbatimTextOutput('order'),
+                            # tableOutput('table2'),
+                            tableOutput('table')),
+                        
+                        box(width = 8, title = strong("Patient Funnel Chart",style = "color: #00688b ;
+                                   font-size: 24px"),
+                            plotlyOutput("plot")),
+                            verbatimTextOutput("clickevent")
                 ),
                 tabItem(tabName = "sig",
                         fluidRow(
@@ -262,7 +271,7 @@ server <- function(input, output) {
           raw_all <- raw_all %>%
             mutate(Patient_Percentage = scales::percent(Without_Filter/(sum(Without_Filter)))) %>%
             adorn_totals() %>%
-            # mutate(Without_Filter =  prettyNum(Without_Filter, big.mark=",",scientific=FALSE)) %>%
+            mutate(Without_Filter =  prettyNum(Without_Filter, big.mark=",",scientific=FALSE)) %>%
             unite("Without_Filter", c("Without_Filter", "Patient_Percentage"), sep = " (") %>%
             mutate(Without_Filter = paste(Without_Filter, ")", sep = ""))
           
@@ -281,11 +290,11 @@ server <- function(input, output) {
               mutate(Patient_Percentage = scales::percent(Patient_Count /
                                                             (sum(Patient_Count)))) %>%
               adorn_totals() %>%
-              # mutate(Patient_Count =  prettyNum(
-              #   Patient_Count,
-              #   big.mark = ",",
-              #   scientific = FALSE
-              # )) %>%
+              mutate(Patient_Count =  prettyNum(
+                Patient_Count,
+                big.mark = ",",
+                scientific = FALSE
+              )) %>%
               unite("Patient_Count", c("Patient_Count", "Patient_Percentage"), sep = " (") %>%
               mutate(Patient_Count = paste(Patient_Count, ")", sep = ""))
           }
@@ -302,7 +311,7 @@ server <- function(input, output) {
             merge(raw_all <- raw_all %>%
                     mutate(Patient_Percentage = scales::percent(Without_Filter/(sum(Without_Filter)))) %>%
                     adorn_totals() %>%
-                    # mutate(Without_Filter =  prettyNum(Without_Filter, big.mark=",",scientific=FALSE)) %>%
+                    mutate(Without_Filter =  prettyNum(Without_Filter, big.mark=",",scientific=FALSE)) %>%
                     unite("Without_Filter", c("Without_Filter", "Patient_Percentage"), sep = " (") %>%
                     mutate(Without_Filter = paste(Without_Filter, ")", sep = "")),
                   
@@ -322,14 +331,14 @@ server <- function(input, output) {
       else if (input$perc == 'b') {
         if (length(input$B_order) == 0) {
           raw_all_1 <- as.data.frame(t(raw_all %>%
-                                         adorn_totals() 
-                                       # %>%
-                                       #   mutate(
-                                       #     Without_Filter =  prettyNum(
-                                       #       Without_Filter,
-                                       #       big.mark = ",",
-                                       #       scientific = FALSE
-                                       #     ))
+                                         adorn_totals()
+                                       %>%
+                                         mutate(
+                                           Without_Filter =  prettyNum(
+                                             Without_Filter,
+                                             big.mark = ",",
+                                             scientific = FALSE
+                                           ))
                                          ))
           colnames(raw_all_1) <-
             paste(as.character(unlist(raw_all_1[1, ])), ": Patient Count / %")
@@ -374,13 +383,13 @@ server <- function(input, output) {
           }
           
           
-          # for (p in 1:ncol(combined_2[2:ncol(combined_2)])) {
-          #   combined_2[2:ncol(combined_2)][[p]] <-
-          #     prettyNum(combined_2[2:ncol(combined_2)][[p]],
-          #               big.mark = ",",
-          #               scientific = FALSE)
-          #   
-          # }
+          for (p in 1:ncol(combined_2[2:ncol(combined_2)])) {
+            combined_2[2:ncol(combined_2)][[p]] <-
+              prettyNum(combined_2[2:ncol(combined_2)][[p]],
+                        big.mark = ",",
+                        scientific = FALSE)
+
+          }
           
           
           for (h in 1:ncol(combined_2[3:ncol(combined_2)])) {
@@ -403,13 +412,13 @@ server <- function(input, output) {
         if (length(input$B_order) == 0) {
           raw_all_1 <- as.data.frame(t(raw_all %>%
                                          adorn_totals() 
-                                       # %>%
-                                       #   mutate(
-                                       #     Without_Filter =  prettyNum(
-                                       #       Without_Filter,
-                                       #       big.mark = ",",
-                                       #       scientific = FALSE
-                                       #     ))
+                                       %>%
+                                         mutate(
+                                           Without_Filter =  prettyNum(
+                                             Without_Filter,
+                                             big.mark = ",",
+                                             scientific = FALSE
+                                           ))
                                          ))
           colnames(raw_all_1) <-
             paste(as.character(unlist(raw_all_1[1, ])), ": Patient Count / %")
@@ -453,14 +462,14 @@ server <- function(input, output) {
             perc[[m]] <- paste(perc[[m]], "%", sep = "")
           }
           
-          
-          # for (p in 1:ncol(combined_2[2:ncol(combined_2)])) {
-          #   combined_2[2:ncol(combined_2)][[p]] <-
-          #     prettyNum(combined_2[2:ncol(combined_2)][[p]],
-          #               big.mark = ",",
-          #               scientific = FALSE)
-          #   
-          # }
+
+          for (p in 1:ncol(combined_2[2:ncol(combined_2)])) {
+            combined_2[2:ncol(combined_2)][[p]] <-
+              prettyNum(combined_2[2:ncol(combined_2)][[p]],
+                        big.mark = ",",
+                        scientific = FALSE)
+
+          }
           
           
           for (h in 1:ncol(combined_2[3:ncol(combined_2)])) {
@@ -482,8 +491,8 @@ server <- function(input, output) {
     else{
       if (length(input$B_order) == 0) {
         raw_all_1 <- as.data.frame(t(raw_all %>% adorn_totals() 
-                                     # %>%
-                                     #   mutate(Without_Filter =  prettyNum(Without_Filter, big.mark = ",", scientific = FALSE))
+                                     %>%
+                                       mutate(Without_Filter =  prettyNum(Without_Filter, big.mark = ",", scientific = FALSE))
                                      ))
         colnames(raw_all_1) <-
           paste(as.character(unlist(raw_all_1[1, ])), ": Patient Count")
@@ -494,9 +503,8 @@ server <- function(input, output) {
           com[[i]] <- filter_data(waterfall, filter[list()$order[1:i]])  %>%
             group_by(hospital) %>%
             summarise(Patient_Count = n_distinct(patient_id)) %>%
-            adorn_totals() 
-          # %>%
-          #   mutate(Patient_Count =  prettyNum(Patient_Count, big.mark = ",", scientific = FALSE))
+            adorn_totals() %>%
+            mutate(Patient_Count =  prettyNum(Patient_Count, big.mark = ",", scientific = FALSE))
         }
         
         combined_1 <-
@@ -509,9 +517,8 @@ server <- function(input, output) {
         }
         
         combined_2 <-
-          merge(raw_all %>% adorn_totals() 
-                # %>%
-                #   mutate(Without_Filter =  prettyNum(Without_Filter, big.mark = ",", scientific = FALSE))
+          merge(raw_all %>% adorn_totals() %>%
+                  mutate(Without_Filter =  prettyNum(Without_Filter, big.mark = ",", scientific = FALSE))
                 ,
                 combined_1,
                 all = T,
@@ -534,8 +541,6 @@ server <- function(input, output) {
           group_by(hospital) %>%
           summarise(Patient_Count = n_distinct(patient_id)) %>%
           adorn_totals() 
-        # %>%
-        #   mutate(Patient_Count =  prettyNum(Patient_Count, big.mark = ",", scientific = FALSE))
       }
       
       combined_1 <-
@@ -549,8 +554,6 @@ server <- function(input, output) {
       
       combined_2 <-
         merge(raw_all %>% adorn_totals() 
-              # %>%
-              #   mutate(Without_Filter =  prettyNum(Without_Filter, big.mark = ",", scientific = FALSE))
               ,
               combined_1,
               all = T,
@@ -571,7 +574,7 @@ server <- function(input, output) {
   
   output$table <- renderTable(
     
-    data(), rownames = TRUE
+    data(), rownames = TRUE, width = 320
     
   )
   
