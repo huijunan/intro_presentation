@@ -195,7 +195,7 @@ ui <- dashboardPage(
                                                       selected = "c")),
                                        
                                        downloadButton("downloadData", "Download CSV")))),
-                          h5("Note that for best appearance and performance, it is recommended to zoom out or zoom in depending on your browser if the table and graph above is disproportionated."),
+                          h5("Note that for best appearance and performance, it is recommended to zoom out or zoom in depending on your browser if the table and graph blow is disproportionated."),
                           
                           box(width = 4, 
                               title = strong("Patient Funnel Table",style = "color: #00688b ;
