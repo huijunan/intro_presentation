@@ -195,6 +195,7 @@ ui <- dashboardPage(
                                                       selected = "c")),
                                        
                                        downloadButton("downloadData", "Download CSV")))),
+                          h5("Note that for best appearance and performance, it is recommended to zoom out or zoom in depending on your browser if the table and graph above is disproportionated."),
                           
                           box(width = 4, 
                               title = strong("Patient Funnel Table",style = "color: #00688b ;
@@ -206,8 +207,7 @@ ui <- dashboardPage(
                           box(width = 8, title = strong("Patient Funnel Chart",style = "color: #00688b ;
                                                         font-size: 24px"),
                               plotlyOutput("plot")),
-                          verbatimTextOutput("clickevent"),
-                          "Note that for best appearance and performance, it is recommended to zoom out or zoom in depending on your browser if the table and graph above is disproportionated."
+                          verbatimTextOutput("clickevent")
                           
                           ),
                   tabItem(tabName = "sig",
@@ -635,7 +635,7 @@ server <- function(input, output) {
       name = 'All Saint Hospital',
       y = factor(rownames(data2()), levels = rownames(data2())),
       x = data2()[,1],
-      hoverinfo = "percent initial+percent previous")
+      hoverinfo = "x+percent initial+percent previous")
     fig <- fig %>%
       add_trace(
         type = "funnel",
