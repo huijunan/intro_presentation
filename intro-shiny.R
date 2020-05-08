@@ -93,7 +93,7 @@ ui <- dashboardPage(
                               tags$div(tags$ul(
                                 tags$li(tags$span(h3("Huijun(means wise noble man in Chinese) An"))),
                                 tags$li(tags$span(h3("Expected MS in Biostatistics at UCLA (current GPA 3.87), BS in Biochemistry at UCLA"))),
-                                tags$li(tags$span(h3("Flexible, thoughtful, and detail-oriented individual who look forward to make real-world contribution in healthcare related data analysis")))))
+                                tags$li(tags$span(h3("Flexible, thoughtful, and detail-oriented individual who looks forward to make real-world contributions in healthcare related data analysis")))))
                             )
                           )),
                   
@@ -152,7 +152,7 @@ ui <- dashboardPage(
                                 tags$li(tags$span(h3("One of my accomplishments at Syapse"))),
                                 tags$li(tags$span(h3("Analysts at Syapse were getting follow-up requests from clients about patient counts using different inclusion-exclusion criteria"))),
                                 tags$li(tags$span(h3("Though the code for using different criteria is easy, it takes time and efforts for analysts to look over past projects constantly"))),
-                                tags$li(tags$span(h3("The idea of creating a flexible deliverable to clients and give them the patient counts of all possible combinations of inclusion-exclusion criteria emerged")))
+                                tags$li(tags$span(h3("The idea of creating and giving a flexible deliverable to clients and give them the patient counts of all possible combinations of inclusion-exclusion criteria emerged")))
                               ))
                             )
                           )),
@@ -634,7 +634,8 @@ server <- function(input, output) {
       type = "funnel",
       name = 'All Saint Hospital',
       y = factor(rownames(data2()), levels = rownames(data2())),
-      x = data2()[,1] )
+      x = data2()[,1],
+      hoverinfo = "percent initial+percent previous")
     fig <- fig %>%
       add_trace(
         type = "funnel",
