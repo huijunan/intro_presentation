@@ -13,13 +13,13 @@ library(plotly)
 waterfall <- as.data.frame(fread("src/take_home_waterfall.tsv"))
 waterfall[is.na(waterfall)] <- "Not Available"
 #3
-filter = list(waterfall$age <= 60,
-              waterfall$encounter_date >= (Sys.Date() -1030), 
+filter = list(waterfall$age <= 65,
+              waterfall$encounter_date >= (Sys.Date() -450), 
               waterfall$stage != "Stage IV"
 )
 #4
-filter_input <- c("Patients Younger than 60 years old",
-                "Patients with recent encounter dates within 120 days", 
+filter_input <- c("Patients Younger than 65 years old",
+                "Patients with recent encounter dates within 15 months", 
                 "Patients not in Stage IV")
 
 options(shiny.sanitize.errors = F)
@@ -33,12 +33,14 @@ ui <- dashboardPage(
                      menuItem("Self-introduction", tabName = "intro", icon = icon("user"),
                               menuSubItem("About me", tabName = "me", icon = icon("angle-right")),
                               menuSubItem("Experience", tabName = "exp", icon = icon("angle-right")),
+                              menuSubItem("Selected projects", tabName = "sp", icon = icon("angle-right")),
                               menuSubItem("Skills", tabName = "skill", icon = icon("angle-right")),
                               menuSubItem("Hobbies", tabName = "hobby", icon = icon("angle-right"))),
                      
                      menuItem("Interesting Project", tabName = "ip", icon = icon("lightbulb"),
+                              menuSubItem("Project background", tabName = "pb", icon = icon("angle-right")),
                               menuSubItem("Filter tool project", tabName = "p", icon = icon("angle-right")),
-                              menuSubItem("Significance", tabName = "sig", icon = icon("angle-right"))
+                              menuSubItem("Significance & Limitation", tabName = "sig", icon = icon("angle-right"))
                               ),
                      menuItem("Contact", tabName = "contact", icon = icon("address-book"))
                    )),
@@ -109,13 +111,60 @@ ui <- dashboardPage(
                   ))
                 ),
                 # Third tab content
+                tabItem(tabName = "sp",
+                        fluidRow(
+                          box(
+                            title = h1("Selected projects"), width = NULL, status = "primary", solidHeader = TRUE,
+                            tags$head(
+                              tags$style(HTML("ul {list-style-type: square;}"))
+                            ),
+                            # project 1
+                            h3(strong(
+                              "Analysis of pre-treatment predictors of post-treatment fatigue on breast cancer patients"
+                              )),
+                            tags$div(tags$ul(
+                              tags$li(tags$span(p(h3("Ongoing project (my master report) & collaboration with UCLA Center for Cancer Prevention and Control")))),
+                              tags$li(tags$span(p(h3("Found significance in multiple inflammatory immune markers with logistic regression")))),
+                              tags$li(tags$span(p(h3("In heated discussion with project leads and clinicians to justify immune marker statistical significance and find clinical meanings for statistical significance"))))
+                              )),
+                            # project 2
+                            h3(strong(
+                              "At Syapse - Validate primary cancer definition algorithm using manually abstracted data"
+                              )),
+                            tags$div(tags$ul(
+                              tags$li(tags$span(p(h3("Heavy data cleaning, such as cancer name standardization and generalization, accounting for spelling error from manual input, etc")))),
+                              tags$li(tags$span(p(h3("Collaborated in designing primary cancer definition algorithms with epidemiologists and picked out the algorithm with highest concordance, with manually abstracted data being the gold standard")))),
+                              tags$li(tags$span(p(h3("Performed sensitivity and specificity analysis on defining primary lung cancer, heme maglinancy and other solid tumors, results all higher than 90%"))))
+                            )),
+                            # project 3
+                            h3(strong(
+                              "Survival analysis of breast cancer patients in San Francisco area from 1988 to 2016 using SEER data"
+                            )),
+                            tags$div(tags$ul(
+                              tags$li(tags$span(p(h3("Acquired SEER research data, conducted heavy data cleaning with the original txt file, resulting in a clean data file of 10,519 records and 13 features")))),
+                              tags$li(tags$span(p(h3("Generated stratified Kaplan Meier survival curve for patients with different grades, histology, stages, etc")))),
+                              tags$li(tags$span(p(h3("Applied log-rank test to test the statistical significance for each covariate in the dataset")))),
+                              tags$li(tags$span(p(h3("Built and compared Cox proportional hazards model and Accelerated Failure Time (AFT) model to provide an explainable relationship between patient survival and different covariates. Feature selection with stepwise AIC. The model goodness of fit was evaluated using pseudo R-squared and visualized using Cox-Snell plot."))))
+                            )),
+                            # project 4
+                            h3(strong(
+                              "Prediction of hospital readmission of diabetes patients"
+                            )),
+                            tags$div(tags$ul(
+                              tags$li(tags$span(p(h3("Dataset “Diabetes 130 US hospitals for years 1999-2008” with over 100K observations obtained from Kaggle")))),
+                              tags$li(tags$span(p(h3("SVM, random forest, CART, XGBoost, and logistic regression used to model the classification and the best performing learner in terms of accuracy"))))
+                            ))
+                          )
+                        )),
+                
+                # fourth tab content
                 tabItem(tabName = "skill",
                         fluidRow(
                           box(title = h1("Skills"),width = NULL, status = "primary", solidHeader = TRUE,
                               tags$img(src='skill.png', style="width: 900px")
                           ))
                 ),
-                # fourth tab content
+                # fifth tab content
                 tabItem(tabName = "hobby",
                         fluidRow(
                           box(title = h1("Me outside of work..."),width = NULL, status = "primary", solidHeader = TRUE,
@@ -133,6 +182,23 @@ ui <- dashboardPage(
                           ))
                 ),
                 # project tab
+                  ## background
+                tabItem(tabName = "pb",
+                        fluidRow(
+                          box(
+                            title = h1("Project background"), width = NULL, status = "primary", solidHeader = TRUE,
+                            tags$head(
+                              tags$style(HTML("ul {list-style-type: square;}"))
+                            ),
+                            tags$div(tags$ul(
+                              tags$li(tags$span(h3("One of my accomplishments at Syapse"))),
+                              tags$li(tags$span(h3("Analysts at Syapse were getting follow-up requests from clients about patient counts using different inclusion-exclusion criteria"))),
+                              tags$li(tags$span(h3("Though the code for using different criteria is easy, it takes time and efforts for analysts to look over past projects constantly"))),
+                              tags$li(tags$span(h3("The idea of creating a flexible deliverable to clients and give them the patient counts of all possible combinations of inclusion-exclusion criteria emerged")))
+                              ))
+                          )
+                        )),
+                  ## Tool tab
                 tabItem(tabName = "p",
                         fluidRow(
                         box(width = 45, collapsible = T,
@@ -183,19 +249,22 @@ ui <- dashboardPage(
                         box(width = 8, title = strong("Patient Funnel Chart",style = "color: #00688b ;
                                    font-size: 24px"),
                             plotlyOutput("plot")),
-                            verbatimTextOutput("clickevent")
+                        verbatimTextOutput("clickevent"),
+                        "Note that for best appearance and performance, it is recommended to zoom out or zoom in depending on your browser if the table and graph above is disproportionated."
                 ),
                 tabItem(tabName = "sig",
                         fluidRow(
-                          box(title = h1("Project Significance"),width = NULL, status = "primary", solidHeader = TRUE,
+                          box(title = h1("Project significance and limitation"),width = NULL, status = "primary", solidHeader = TRUE,
                               tags$head(
                                 tags$style(HTML("ul {list-style-type: square;}"))
                               ),
                               tags$div(tags$ul(
+                                
                                 tags$li(tags$span(h3("The filter tool is actually written in the form of a function. 
                                                      An analyst can input the name of dataset, category name, and filters that customers asked for in the function.
                                                      Then the shiny app specifically for the analyst's request will pop out."))),
-                                tags$li(tags$span(h3("This function reduced number of follow up requests for patient funnels and fulfilled potential customer needs"))),
+                                tags$li(tags$span(h3("This tool only works on cleaned-up datasets, most importantly, no missing data"))),
+                                tags$li(tags$span(h3("This function significantly reduced number of follow up requests for patient funnels and fulfilled potential customer needs. Still in use at Syapse."))),
                                 tags$li(tags$span(h3("From a learning perspective, this project trained me with the idea of coding with consideration of versatility of future use"))))
                               )
                           ))
@@ -535,7 +604,14 @@ server <- function(input, output) {
   })
   
   data2 <- reactive({
-     
+    if (length(input$B_order) == 0) {
+      
+      raw_all_1 <- as.data.frame(raw_all %>% adorn_totals())
+      rownames(raw_all_1) <- raw_all_1[,1]
+      raw_all_1[,1] <- NULL
+      as.data.frame(t(raw_all_1))
+      
+    } else {
       for (i in 1:length(list()$order)) {
         com[[i]] <- filter_data(waterfall, filter[list()$order[1:i]])  %>%
           group_by(hospital) %>%
@@ -567,14 +643,14 @@ server <- function(input, output) {
       combined$names <- rownames(combined)
       combined
       
-    
+    }
   
   })
   
   
   output$table <- renderTable(
     
-    data(), rownames = TRUE, width = 320
+    data(), rownames = TRUE
     
   )
   
@@ -600,7 +676,8 @@ server <- function(input, output) {
       type = "funnel",
       name = 'All Saint Hospital',
       y = factor(rownames(data2()), levels = rownames(data2())),
-      x = data2()[,1] )
+      x = data2()[,1],
+      hoverinfo = "percent initial+percent previous")
     fig <- fig %>%
       add_trace(
         type = "funnel",
